@@ -1,0 +1,31 @@
+[
+ {
+  "id": 180,
+  "name_listed": "Megan Lawrence",
+  "institution_listed": "Vanderbilt University",
+  "full_name": "Megan L. Lawrence",
+  "current_institution": "Indiana University",
+  "school_unit": "Kelley School of Business, Department of Management & Entrepreneurship",
+  "moved": true,
+  "title": "Assistant Professor of Strategic Management",
+  "rank": "Assistant",
+  "rank_detail": "Previously Assistant Professor at Vanderbilt Owen; now at Indiana Kelley (per personal website, 2026)",
+  "faculty_page_url": "",
+  "personal_website_url": "https://www.meganllawrence.com/",
+  "cv_url": "",
+  "research_topics": "organizational learning; practice adoption and replication; organizational structure and hierarchy; firm adaptation; prior experience; founder CEOs",
+  "phd_institution": "Harvard University (Harvard Business School)",
+  "phd_field": "Strategy",
+  "phd_year": "",
+  "area": "Strategy & OT",
+  "subfield": "Strategy (organizational learning & design)",
+  "area_rationale": "Strategy scholar studying how firms learn, replicate practices and grow hierarchy (SMJ, Org Science)",
+  "confidence": "high",
+  "sources": [
+   "https://www.meganllawrence.com/",
+   "https://www.meganllawrence.com/bio.html",
+   "https://www.meganllawrence.com/research.html"
+  ],
+  "notes": "Website supplied by the user. PhD year not stated on her site. Not in Vanderbilt directories because she moved to Indiana Kelley."
+ }
+]
