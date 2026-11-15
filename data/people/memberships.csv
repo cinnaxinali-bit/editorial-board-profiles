@@ -1,0 +1,1399 @@
+person_id,journal,role,department,name_on_page,affiliation_on_page
+P0001,ASQ,Editorial Board,,Mabel Abraham,"Columbia University, USA"
+P0001,Organization Science,Editorial Review Board,,Mabel Abraham,Columbia University
+P0002,Organization Science,Editorial Review Board,,Arzi Adbi,National University of Singapore
+P0002,SMJ,Associate Editor,,Arzi Adbi,"National University of Singapore, Singapore"
+P0003,Organization Science,Editorial Review Board,,Ryan Allen,Brigham Young University
+P0004,Organization Science,Editorial Review Board,,Elisa Alvarez-Garrido,University of South Carolina
+P0004,SMJ,Editorial Review Board,,Elisa Alvarez-Garrido,"University of South Carolina, U.S.A."
+P0005,Organization Science,Editorial Review Board,,Marc Anderson,Iowa State University
+P0006,Organization Science,Editorial Review Board,,Eric Anicich,University of Southern California
+P0007,ASQ,Editorial Board,,Michel Anteby,"Boston University, USA"
+P0007,ASQ,Methods Advisory Panel,,Michel Anteby,"Boston University, USA"
+P0007,Organization Science,Editorial Review Board,,Michel Anteby,Boston University
+P0008,ASQ,Editorial Board,,Callen Anthony,"New York University, USA"
+P0008,Organization Science,Editorial Review Board,,Callen Anthony,New York University Stern School of Business
+P0009,Organization Science,Editorial Review Board,,Giselle Antoine,Washington University in St. Louis
+P0010,Organization Science,Editorial Review Board,,Rachel Arnett,University of Pennsylvania
+P0011,ASQ,Editorial Board,,Stefan Arora-Jonsson,"Uppsala University, Sweden"
+P0011,Organization Science,Editorial Review Board,,Stefan Arora-Jonsson,University of Uppsala
+P0012,Organization Science,Editorial Review Board,,Navid Asgari,"Gabelli School of Business, Fordham University"
+P0013,Organization Science,Editorial Review Board,,Paolo Aversa,Cass Business School
+P0014,Organization Science,Editorial Review Board,,Sarath Balachandran,University of Pennsylvania
+P0014,SMJ,Editorial Review Board,,Sarath Balachandran,"London Business School, U.K."
+P0015,AMJ,Editorial Review Board,,Luis Ballesteros,Boston University United States
+P0015,Organization Science,Editorial Review Board,,Luis Ballesteros,Boston University
+P0015,SMJ,Editorial Review Board,,Luis Ballesteros,"Questrom School of Business, U.S.A."
+P0016,Organization Science,Editorial Review Board,,Stefano Baruffaldi,Politecnico di Milano
+P0017,Organization Science,Editorial Review Board,,Oliver Baumann,University of Southern Denmark
+P0017,SMJ,Editorial Review Board,,Oliver Baumann,"University of Southern Denmark, Denmark"
+P0018,Organization Science,Editorial Review Board,,Joshua Becker,University College London
+P0019,Organization Science,Editorial Review Board,,Markus Becker,University of Southern Denmark
+P0020,Organization Science,Editorial Review Board,,Peter Belmi,University of Virginia
+P0021,Organization Science,Editorial Review Board,,Victor Bennett,University of Utah
+P0021,SMJ,Associate Editor,,Victor Bennett,"University of Utah, U.S.A."
+P0022,AMJ,Editorial Review Board,,Justin M. Berg,University of Michigan United States
+P0022,ASQ,Editorial Board,,Justin Berg,"University of Michigan, USA"
+P0022,Organization Science,Editorial Review Board,,Justin Berg,University of Michigan
+P0023,Organization Science,Editorial Review Board,,Patrick Bergemann,"University of California, Irvine"
+P0024,ASQ,Associate Editor,,Matthew Bidwell,"University of Pennsylvania, USA"
+P0024,Organization Science,Editorial Review Board,,Matthew Bidwell,University of Pennsylvania
+P0025,Organization Science,Editorial Review Board,,Yanhua Bird,Boston University
+P0026,Organization Science,Editorial Review Board,,Radina Blageova,University of Georgia
+P0027,Organization Science,Editorial Review Board,,Daniela Blettner,Simon Fraser University
+P0027,SMJ,Editorial Review Board,,Daniela Blettner,"Simon Fraser University, Canada"
+P0028,Organization Science,Editorial Review Board,,Christiane Bode,Imperial College London
+P0028,SMJ,Editorial Review Board,,Christiane Bode,"Imperial College London, U.K."
+P0029,Organization Science,Editorial Review Board,,Brittany Bond,Cornell University
+P0030,AMJ,Editorial Review Board,,Rocio Bonet,IE University Spain
+P0030,Organization Science,Editorial Review Board,,Rocio Bonet,IE University
+P0030,SMJ,Associate Editor,,Rocio Bonet,"IE University, Spain"
+P0031,ASQ,Editorial Board,,Tristan Botelho,"Yale University, USA"
+P0031,Organization Science,Editorial Review Board,,Tristan Botelho,Yale University
+P0032,Organization Science,Editorial Review Board,,Garrett Brady,Bocconi University
+P0033,Management Science,Associate Editor,Strategy,Francisco Brahm,London Business School
+P0033,Organization Science,Editorial Review Board,,Francisco Brahm,London Business School
+P0033,SMJ,Editorial Review Board,,Francisco Brahm,"London Business School, U.K."
+P0034,Organization Science,Editorial Review Board,,Shelley Brickson,University of Illinois at Chicago
+P0035,Organization Science,Editorial Review Board,,Forrest Briscoe,Pennsylvania State University
+P0036,AMJ,Editorial Review Board,,Jonathan Bundy,"Arizona State University, United States"
+P0036,Organization Science,Editorial Review Board,,Jonathan Bundy,Arizona State University
+P0036,SMJ,Editorial Review Board,,Jonathan Bundy,"Arizona State University, U.S.A."
+P0037,AMJ,Editorial Review Board,,Ethan Burris,The University of Texas at Austin United States
+P0037,Organization Science,Editorial Review Board,,Ethan Burris,University of Texas at Austin
+P0038,Organization Science,Editorial Review Board,,Heejung Byun,Purdue University
+P0038,SMJ,Editorial Review Board,,Heejung Byun,"Purdue University, U.S.A."
+P0039,Organization Science,Editorial Review Board,,Eugenia Cacciatori,ETH Zürich
+P0040,ASQ,Editorial Board,,Lindsey Cameron,"University of Pennsylvania, USA"
+P0040,Organization Science,Editorial Review Board,,Lindsey Cameron,Penn
+P0041,Organization Science,Editorial Review Board,,Elizabeth Lauren Campbell,"Rady School of Management, UC San Diego"
+P0042,Organization Science,Editorial Review Board,,Santiago Campero,University of Toronto
+P0043,Organization Science,Editorial Review Board,,Natalie Carlson,University of Pennsylvania
+P0043,SMJ,Editorial Review Board,,Natalie Carlson,"Wharton School of Business, U.S.A."
+P0044,ASQ,Associate Editor,,Seth Carnahan,"Washington University in St. Louis, USA"
+P0044,Organization Science,Editorial Review Board,,Seth Carnahan,Washington University in St. Louis
+P0045,AMJ,Editorial Review Board,,Andrew Carton,"University of Pennsylvania, United States"
+P0045,Organization Science,Editorial Review Board,,Drew Carton,University of Pennsylvania
+P0046,Organization Science,Editorial Review Board,,Heewon Chae,Arizona State University WP Carey School of Business
+P0047,ASQ,Editorial Board,,Cassandra Chambers,"Johns Hopkins University, USA"
+P0047,Organization Science,Editorial Review Board,,Cassandra Chambers,Johns Hopkins University
+P0048,ASQ,Editorial Board,,Curtis Chan,"University of Alberta, Canada"
+P0048,Organization Science,Editorial Review Board,,Curtis Chan,University of Alberta
+P0049,Organization Science,Editorial Review Board,,Edward Chang,Harvard Business School
+P0050,Organization Science,Editorial Review Board,,Shinjinee Chattopadhyay,"University of Illinois, Urbana-Champaign"
+P0050,SMJ,Editorial Review Board,,Shinjinee Chattopadhyay,"University of Illinois at Urbana-Champaign, U.S.A."
+P0051,Organization Science,Editorial Review Board,,Jasmina Chauvin,Georgetown University
+P0052,Organization Science,Editorial Review Board,,John Chen,Baylor
+P0052,SMJ,Editorial Review Board,,John Chen,"University of Florida, U.S.A."
+P0053,AMJ,Editorial Review Board,,M. K. Chin,Indiana University Bloomington United States
+P0053,Organization Science,Editorial Review Board,,M. K. Chin,Indiana University
+P0053,SMJ,Editorial Review Board,,MK Chin,"Indiana University, U.S.A."
+P0054,Organization Science,Editorial Review Board,,Prithwiraj Choudhury,Harvard Business School
+P0054,SMJ,Associate Editor,,Raj Choudhury,"London School of Economics, U.K."
+P0054,SMJ,Editorial Review Board,,Prithwiraj Choudhury,"Harvard University, U.S.A."
+P0055,ASQ,Editorial Board,,Jillian Chown,"Northwestern University, USA"
+P0055,Organization Science,Editorial Review Board,,Jillian Chown,"Kellogg School of Management, Northwestern University"
+P0056,ASQ,Editorial Board,,Daisy Chung,"City University of London, UK"
+P0056,Organization Science,Editorial Review Board,,Daisy Chung,"Bayes Business School, City St. George's, University of London"
+P0057,Organization Science,Editorial Review Board,,Bruno Cirillo,SKEMA Business School
+P0057,SMJ,Editorial Review Board,,Bruno Cirillo,"SKEMA Business School, France"
+P0058,Organization Science,Editorial Review Board,,Julien Clement,Stanford Graduate School of Business
+P0058,SMJ,Editorial Review Board,,Julien Clement,"Stanford University, U.S.A."
+P0059,ASQ,Editorial Board,,David Clough,"University of British Columbia, Canada"
+P0059,Organization Science,Editorial Review Board,,David Clough,The University of British Columbia
+P0059,SMJ,Editorial Review Board,,David R. Clough,"University of British Columbia, Canada"
+P0060,Organization Science,Editorial Review Board,,Susan Cohen,University of Georgia Terry College of Business
+P0060,SMJ,Associate Editor,,Susan Cohen,"University of Georgia, U.S.A."
+P0061,Organization Science,Editorial Review Board,,Vanessa Conzon,Boston College
+P0062,Organization Science,Editorial Review Board,,Clarissa Cortland,UCL School of Management
+P0063,Organization Science,Editorial Review Board,,Constantinos Coutifaris,University of Texas at Austin
+P0064,AMJ,Editorial Review Board,,Stephanie J. Creary,"University of Pennsylvania, United States"
+P0064,Organization Science,Editorial Review Board,,Stephanie Creary,University of Pennsylvania
+P0065,AMJ,Associate Editor,,Dónal Crilly,"London Business School, United Kingdom"
+P0065,Organization Science,Editorial Review Board,,Donal Crilly,London Business School
+P0065,SMJ,Editorial Review Board,,Donal Crilly,"London Business School, U.K."
+P0066,Organization Science,Editorial Review Board,,Colleen Cunningham,The University of Utah David Eccles School of Business
+P0066,SMJ,Editorial Review Board,,Colleen Cunningham,"University of Utah Eccles School of Business, U.S.A."
+P0067,Organization Science,Editorial Review Board,,David Daniels,National University of Singapore
+P0068,Organization Science,Editorial Review Board,,Jennifer Dannals,Yale University
+P0069,Organization Science,Editorial Review Board,,Federica De Stefano,Oxford
+P0070,Management Science,Associate Editor,Organizations,Mathijs de Vaan,"University of California, Berkeley"
+P0070,Organization Science,Editorial Review Board,,Mathijs de Vaan,"University of California, Berkeley"
+P0071,AMJ,Editorial Review Board,,Katherine Ann DeCelles,"University of Toronto, Canada"
+P0071,Organization Science,Editorial Review Board,,Katy DeCelles,University of Toronto
+P0072,Organization Science,Editorial Review Board,,Solene Delecourt,"University of California, Berkeley"
+P0073,AMJ,Editorial Review Board,,Vinit M. Desai,University of Colorado-Denver/Anschutz Medical Campus United States
+P0073,Organization Science,Editorial Review Board,,Vinit Desai,"University of Colorado, Denver"
+P0074,Organization Science,Editorial Review Board,,Yuval Deutsch,York University
+P0075,Organization Science,Editorial Review Board,,Giada Di Stefano,Bocconi University
+P0075,SMJ,Associate Editor,,Giada Distefano,"Bocconi University, Italy"
+P0076,ASQ,Editorial Board,,Julia DiBenigno,"Yale University, USA"
+P0076,ASQ,Methods Advisory Panel,,Julia DiBenigno,"Yale University, USA"
+P0076,Organization Science,Editorial Review Board,,Julia DiBenigno,Yale School of Management
+P0077,ASQ,Editorial Board,,Stefan Dimitriadis,"University of Toronto, Canada"
+P0077,Organization Science,Editorial Review Board,,Stefan Dimitriadis,University of Toronto
+P0077,SMJ,Editorial Review Board,,Stefan Dimitriadis,"University of Toronto, Canada"
+P0078,Organization Science,Editorial Review Board,,Laura Doering,University of Toronto
+P0079,Organization Science,Editorial Review Board,,Sinziana Dorobantu,New York University
+P0079,SMJ,Editorial Review Board,,Sinziana Dorobantu,"New York University, U.S.A."
+P0080,AMJ,Editorial Review Board,,Michelle Duguid,Cornell University United States
+P0080,Organization Science,Editorial Review Board,,Michelle Duguid,Cornell University
+P0081,Organization Science,Editorial Review Board,,Chris Eaglin,Duke University
+P0082,Organization Science,Editorial Review Board,,Robert Eberhart,University of San Diego
+P0083,ASQ,Associate Editor,,J. P. Eggers,"New York University, USA"
+P0083,Organization Science,Editorial Review Board,,J.P. Eggers,New York University
+P0084,Organization Science,Editorial Review Board,,John Eklund,University of Southern California
+P0084,SMJ,Editorial Review Board,,John Eklund,"University of Southern California, U.S.A."
+P0085,Organization Science,Editorial Review Board,,Daniel Elfenbein,Washington University in St. Louis
+P0086,ASQ,Editorial Board,,Joelle Evans,"City University of London, UK"
+P0086,Organization Science,Editorial Review Board,,Joelle Evans,Bayes Business School
+P0087,Organization Science,Editorial Review Board,,Denise Falchetti,George Washington
+P0088,Organization Science,Editorial Review Board,,Vivianna Fang He,University of St Gallen
+P0089,Organization Science,Editorial Review Board,,Alexandra Feldberg,Harvard University
+P0090,Organization Science,Editorial Review Board,,Simone Ferriani,Universita' di Bologna
+P0090,SMJ,Editorial Review Board,,Simone Ferriani,"University of Bologna, Italy"
+P0091,ASQ,Editorial Board,,Justin Frake,"University of Michigan, USA"
+P0091,Management Science,Associate Editor,Organizations,Justin Frake,University of Michigan
+P0091,Organization Science,Senior Editor,,Justin Frake,"Ross School of Business, University of Michigan"
+P0091,Organization Science,Editorial Review Board,,Justin Frake,University of Michigan
+P0091,SMJ,Editorial Review Board,,Justin Frake,"University of Michigan, U.S.A."
+P0092,Organization Science,Editorial Review Board,,Erin Frey,Yale University
+P0093,Organization Science,Editorial Review Board,,Caroline Fry,University of Hawaii
+P0094,Management Science,Associate Editor,Organizations,Russell Funk,University of Minnesota
+P0094,Organization Science,Editorial Review Board,,Russell Funk,University of Minnesota
+P0095,Organization Science,Editorial Review Board,,Nathan Furr,INSEAD
+P0095,SMJ,Editorial Review Board,,Nathan Furr,"INSEAD, France"
+P0096,Organization Science,Editorial Review Board,,Luisa Gagliardi,Bocconi University
+P0097,ASQ,Editorial Board,,Roman Galperin,"McGill University, Canada"
+P0097,Organization Science,Editorial Review Board,,Roman Galperin,McGill University
+P0098,ASQ,Editorial Board,,Cheng Gao,"University of Michigan, USA"
+P0098,Organization Science,Editorial Review Board,,Cheng Gao,University of Michigan
+P0098,SMJ,Editorial Review Board,,Cheng Gao,"University of Michigan, U.S.A."
+P0099,Organization Science,Editorial Review Board,,Aline Gatignon,University of Pennsylvania
+P0099,SMJ,Editorial Review Board,,Aline Gatignon,"University of Pennsylvania, U.S.A."
+P0100,Management Science,Associate Editor,Strategy,Britta Glennon,University Pennsylvania
+P0100,Organization Science,Editorial Review Board,,Britta Glennon,University of Pennsylvania
+P0100,SMJ,Editorial Review Board,,Britta Glennon,"University of Pennsylvania, U.S.A."
+P0101,Organization Science,Editorial Review Board,,Theresa Glomb,University of Minnesota
+P0102,Organization Science,Editorial Review Board,,David Gomulya,Singapore Management University
+P0103,ASQ,Editorial Board,,Leroy Gonsalves,"Boston University, USA"
+P0103,Organization Science,Editorial Review Board,,Leroy Gonsalves,Boston University
+P0104,AMJ,Editorial Review Board,,Scott Graffin,University of Georgia United States
+P0104,Organization Science,Editorial Review Board,,Scott Graffin,University of Georgia
+P0104,SMJ,Editorial Review Board,,Scott Graffin,"University of Georgia, U.S.A."
+P0105,Organization Science,Editorial Review Board,,Lorenz Graf-Vlachy,FAU Erlangen-Nürnberg
+P0106,Organization Science,Editorial Review Board,,Steve Gray,University of Texas at Austin
+P0107,Organization Science,Editorial Review Board,,Royston Greenwood,University of Alberta
+P0108,Organization Science,Editorial Review Board,,Isin Guler,University of North Carolina at Chapel Hill
+P0109,Organization Science,Editorial Review Board,,Jorge Guzman,Columbia University
+P0110,Organization Science,Editorial Review Board,,Jaekyung Ha,EM LYON Business School
+P0111,Organization Science,Editorial Review Board,,Uriel Haran,Ben-Gurian University
+P0112,Organization Science,Editorial Review Board,,Dana Harari,Technion
+P0113,AMJ,Editorial Review Board,,Ashley Elizabeth Hardin,"Washington University in St. Louis, United States"
+P0113,Organization Science,Editorial Review Board,,Ashley Hardin,Washington University in St Louis
+P0114,AMJ,Editorial Review Board,,Derek Harmon,"Michigan State University, United States"
+P0114,ASQ,Editorial Board,,Derek J. Harmon,"Michigan State University, USA"
+P0114,Organization Science,Editorial Review Board,,Derek Harmon,University of Michigan
+P0115,Organization Science,Senior Editor,,Jean-François Harvey,HEC Montréal
+P0115,Organization Science,Editorial Review Board,,Jean-François Harvey,HEC Montréal
+P0116,AMJ,Editorial Review Board,,Olga Hawn,University of North Carolina at Chapel Hill United States
+P0116,Management Science,Associate Editor,Strategy,Olga Hawn,University of North Carolina at Chapel Hill
+P0116,Organization Science,Editorial Review Board,,Olga Hawn,University of North Carolina at Chapel Hill
+P0116,SMJ,Associate Editor,,Olga Hawn,"Kenan-Flagler Business School, U.S.A."
+P0117,Organization Science,Senior Editor,,Nicholas Hays,Michigan State University
+P0117,Organization Science,Editorial Review Board,,Nicholas Hays,Michigan State University
+P0118,AMJ,Associate Editor,,Emily Dunham Heaphy,"University of Massachusetts-Amherst, United States"
+P0118,ASQ,Editorial Board,,Emily Heaphy,"University of Massachusetts, USA"
+P0118,Organization Science,Editorial Review Board,,Emily Heaphy,University of Massachusetts Amherst
+P0119,Organization Science,Editorial Review Board,,Luke Hedden,University of Miami
+P0120,ASQ,Editorial Board,,Shon Hiatt,"University of Southern California, USA"
+P0120,Organization Science,Editorial Review Board,,Shon Hiatt,University of Southern California
+P0120,SMJ,Editorial Review Board,,Shon Hiatt,"University of Southern California, USA"
+P0121,Organization Science,Editorial Review Board,,N. Sharon Hill,George Washington University
+P0122,Organization Science,Editorial Review Board,,Audrey Holm,HEC Paris
+P0123,Organization Science,Regional Outreach Editor (Asia-Pacific),,Yun Hou,Hong Kong University of Science and Technology
+P0123,Organization Science,Editorial Review Board,,Yun Hou,HKUST(GZ)
+P0124,Organization Science,Editorial Review Board,,Travis Howell,Arizona State University
+P0125,Organization Science,Editorial Review Board,,Songcui Hu,The University of Arizona
+P0125,SMJ,Associate Editor,,Songcui Hu,"Univeristy of Arizona, U.S.A."
+P0126,AMJ,Editorial Review Board,,Kenneth G. Huang,National University of Singapore Singapore
+P0126,Organization Science,Editorial Review Board,,Kenneth Huang,National University of Singapore
+P0126,SMJ,Editorial Review Board,,Kenneth G Huang,"National University of Singapore, Singapore"
+P0127,AMJ,Editorial Review Board,,Timothy David Hubbard,University of Notre Dame United States
+P0127,Organization Science,Editorial Review Board,,Tim Hubbard,University of Notre Dame
+P0127,SMJ,Editorial Review Board,,Timothy Hubbard,"University of Notre Dame, U.S.A."
+P0128,ASQ,Associate Editor,,Ruthanne Huising,"ESSEC Business School, France"
+P0128,Organization Science,Editorial Review Board,,Ruthanne Huising,ESSEC Business School
+P0129,ASQ,Editorial Board,,Reuben Hurst,"University of Maryland, USA"
+P0129,Organization Science,Editorial Review Board,,Reuben Hurst,University of Maryland
+P0129,SMJ,Editorial Review Board,,Reuben Hurst,"University Maryland, U.S.A."
+P0130,AMJ,Editorial Review Board,,Insiya Hussain,"George Mason University, United States"
+P0130,ASQ,Editorial Board,,Insiya Hussain,"George Mason University, USA"
+P0130,Organization Science,Editorial Review Board,,Insiya Hussain,George Mason University
+P0131,Organization Science,Editorial Review Board,,Carlos Inoue,University of Illinois at Urbana-Champaign
+P0131,SMJ,Editorial Review Board,,Carlos Inoue,"University of Illinois at Champaign Urbana, U.S.A."
+P0132,Organization Science,Editorial Review Board,,Alessandro Iorio,Bocconi University
+P0133,Organization Science,Editorial Review Board,,Farhan Iqbal,Indiana University
+P0134,Organization Science,Editorial Review Board,,Summer Jackson,Harvard Business School
+P0135,Organization Science,Editorial Review Board,,Sujin Jang,INSEAD
+P0136,Organization Science,Editorial Review Board,,Hooria Jazaieri,"Leavey School of Business, Santa Clara University"
+P0137,AMJ,Editorial Review Board,,Nan Jia,"University of Southern California, United States"
+P0137,Organization Science,Editorial Review Board,,Nan Jia,University of Southern California
+P0138,Organization Science,Editorial Review Board,,Winnie Jiang,INSEAD
+P0139,Organization Science,Editorial Review Board,,Lars Johnson,University of Texas Arlington
+P0140,Organization Science,Editorial Review Board,,Stephen Jones,University of Washington Bothell
+P0141,AMJ,Associate Editor,,Hemant Kakkar,"National University of Singapore, Singapore"
+P0141,Organization Science,Editorial Review Board,,Hemant Kakkar,Indian School of Business
+P0142,Organization Science,Editorial Review Board,,Yungu Kang,Ulsan National Institute of Science and Technology
+P0143,Organization Science,Editorial Review Board,,Jingoo Kang,Nanyang Technological University
+P0143,SMJ,Editorial Review Board,,Jingoo Kang,"Nanyang Technological University, Singapore"
+P0144,Organization Science,Editorial Review Board,,Sukhun Kang,UC Santa Barbara
+P0145,Organization Science,Editorial Review Board,,Dana Kanze,London Business School
+P0146,Organization Science,Editorial Review Board,,Aldona Kapacinskaite,Bocconi University
+P0146,SMJ,Editorial Review Board,,Aldona Kapacinskaite,"INSEAD, France"
+P0147,Management Science,Associate Editor,Strategy,Samina Karim,Northeastern University
+P0147,Organization Science,Editorial Review Board,,Samina Karim,Northeastern University
+P0147,SMJ,Editorial Review Board,,Samina Karim,"Northeastern University, U.S.A."
+P0148,Organization Science,Editorial Review Board,,Rebecca Karp,Harvard Business School
+P0149,Organization Science,Editorial Review Board,,Ivana Katic,"McDonough School of Business, Georgetown University"
+P0150,Organization Science,Editorial Review Board,,Riitta Katila,Stanford University
+P0150,SMJ,Editorial Review Board,,Riitta Katila,"Stanford University, USA"
+P0151,Organization Science,Editorial Review Board,,Aseem Kaul,University of Minnesota
+P0151,SMJ,Editorial Review Board,,Aseem Kaul,"University of Minnesota, U.S.A."
+P0152,AMJ,Editorial Review Board,,Thomas Keil,"University of Zurich, Switzerland"
+P0152,Organization Science,Editorial Review Board,,Thomas Keil,University of Zurich
+P0152,SMJ,Editorial Review Board,,Thomas Keil,"University of Zurich, Switzerland"
+P0153,AMJ,Editorial Review Board,,JR Keller,Cornell University United States
+P0153,Organization Science,Editorial Review Board,,JR Keller,Cornell University
+P0154,AMJ,Editorial Review Board,,Katherine C. Kellogg,Katherine Kellogg Person United States
+P0154,ASQ,Editorial Board,,Katherine Kellogg,"Massachusetts Institute of Technology, USA"
+P0154,Organization Science,Editorial Review Board,,Katherine Kellogg,Massachusetts Institute of Technology
+P0155,Organization Science,Editorial Review Board,,Harsh Ketkar,University of Texas at Austin
+P0155,SMJ,Editorial Review Board,,Harsh Ketkar,"University of Texas Austin, U.S.A."
+P0156,Organization Science,Editorial Review Board,,Daniel Keum,Columbia University Business School
+P0156,SMJ,Associate Editor,,Daniel Keum,"Columbia Business School, U.S.A."
+P0156,SMJ,Editorial Review Board,,Daniel Keum,"Columbia Business School, USA"
+P0157,AMJ,Editorial Review Board,,Gavin J. Kilduff,"New York University, United States"
+P0157,Organization Science,Editorial Review Board,,Gavin Kilduff,New York University
+P0158,Organization Science,Editorial Review Board,,Daniel Kim,University of Pennsylvania
+P0158,SMJ,Editorial Review Board,,J. Daniel Kim,"University of Pennsylvania, U.S.A."
+P0159,Organization Science,Editorial Review Board,,Eun Hee Kim,Fordham University
+P0159,SMJ,Editorial Review Board,,Eun-Hee Kim,"Fordham University, U.S.A."
+P0160,Organization Science,Editorial Review Board,,Heeyon Kim,Cornell University
+P0161,Organization Science,Editorial Review Board,,Hyunjin Kim,INSEAD
+P0161,SMJ,Editorial Review Board,,Hyunjin Kim,"INSEAD, Singapore"
+P0162,Organization Science,Editorial Review Board,,Minjae Kim,Rice University
+P0163,Organization Science,Editorial Review Board,,Erika Kirgios,University of Chicago
+P0164,ASQ,Deputy Editor,,Adam M. Kleinbaum,"Dartmouth College, USA"
+P0164,Organization Science,Editorial Review Board,,Adam Kleinbaum,Dartmouth College
+P0164,SMJ,Editorial Review Board,,Adam Kleinbaum,"Dartmouth College, USA"
+P0165,Organization Science,Editorial Review Board,,Thomas Klueter,IESE Business School
+P0165,SMJ,Editorial Review Board,,Thomas Klueter,"IESE Business School, Germany"
+P0166,Organization Science,Editorial Review Board,,Madeline Kneeland,Babson College
+P0167,Management Science,Associate Editor,Organizations,Ozgecan Koçak,Emory University
+P0167,Organization Science,Editorial Review Board,,Ozgecan Kocak,Emory University
+P0168,AMJ,Editorial Review Board,,Dejun “Tony” Kong,"University of Colorado-Boulder, United States"
+P0168,Organization Science,Editorial Review Board,,Tony Kong,"University of Colorado, Boulder"
+P0169,Management Science,Associate Editor,Organizations,Rembrand Koning,Harvard Business School
+P0169,Organization Science,Editorial Review Board,,Rembrand Koning,Harvard Business School
+P0169,SMJ,Editorial Review Board,,Rembrand Koning,"Harvard Business School, U.S.A."
+P0170,Organization Science,Editorial Review Board,,Wesley Koo,Johns Hopkins University
+P0170,SMJ,Editorial Review Board,,Wesley Koo,"Johns Hopkins University, U.S.A."
+P0171,AMJ,Editorial Review Board,,Ryan Adam Krause,"University of Iowa, United States"
+P0171,Organization Science,Editorial Review Board,,Ryan Krause,Texas Christian University
+P0171,SMJ,Editorial Review Board,,Ryan Krause,"Texas Christian University, USA"
+P0172,Organization Science,Editorial Review Board,,Glen Kreiner,University of Utah
+P0173,AMJ,Associate Editor,,David Kryscynski,"Rutgers University, United States"
+P0173,Organization Science,Editorial Review Board,,DK Kryscynski,Rutgers SMLR
+P0173,SMJ,Editorial Review Board,,David Kryscynski,"Rutgers University, U.S.A."
+P0174,Organization Science,Editorial Review Board,,Ravi Kudesia,"Fox School of Business, Temple University"
+P0175,AMJ,Editorial Review Board,,Timothy Kundro,University of North Carolina at Chapel Hill United States
+P0175,Organization Science,Senior Editor,,Timothy Kundro,"University of North Carolina, Chapel Hill"
+P0175,Organization Science,Editorial Review Board,,Timothy Kundro,University of North Carolina at Chapel Hill
+P0176,Organization Science,Editorial Review Board,,Pasi Kuusela,Groningen University
+P0177,Organization Science,Editorial Review Board,,Blaine Landis,University College London
+P0178,Organization Science,Editorial Review Board,,Jacqueline Lane,Harvard Business School
+P0179,Organization Science,Editorial Review Board,,Daniella Laureiro-Martinez,ETH Zurich
+P0179,SMJ,Editorial Review Board,,Daniella Laureiro-Martínez,"ETH Zurich, Switzerland"
+P0180,Organization Science,Editorial Review Board,,Megan Lawrence,Vanderbilt University
+P0180,SMJ,Editorial Review Board,,Megan Lawrence,"Vanderbilt University, U.S.A."
+P0181,Organization Science,Editorial Review Board,,Asher Lawson,INSEAD
+P0182,Organization Science,Editorial Review Board,,Sarah Lebovitz,University of Virginia
+P0183,AMJ,Editorial Review Board,,Yonghoon Lee,Texas A&M University United States
+P0183,ASQ,Editorial Board,,Yonghoon Lee,"Texas A&M University, USA"
+P0183,Organization Science,Editorial Review Board,,Yonghoon Lee,Texas A&M
+P0184,Organization Science,Editorial Review Board,,Kevin Lee,University of British Columbia
+P0185,Organization Science,Editorial Review Board,,Eric Y. Lee,Texas A&M University
+P0186,Organization Science,Editorial Review Board,,Brandon Lee,Melbourne Business School
+P0187,Organization Science,Editorial Review Board,,Joon Mahn Lee,Korea University
+P0188,ASQ,Editorial Board,,Matthew Lee,"Harvard University, USA"
+P0188,Organization Science,Editorial Review Board,,Matt Lee,Harvard University
+P0188,SMJ,Editorial Review Board,,Matthew Lee,"Harvard University, U.S.A."
+P0189,Organization Science,Editorial Review Board,,Saerom (Ronnie) Lee,University of Pennsylvania
+P0190,Organization Science,Editorial Review Board,,Sunkee Lee,"Tepper School of Business, Carnegie Mellon University"
+P0190,SMJ,Associate Editor,,Sunkee Lee,"Carnegie Mellon University, USA"
+P0191,AMJ,Editorial Review Board,,Angelica Leigh,"Duke University, United States"
+P0191,Organization Science,Editorial Review Board,,Angelica Leigh,Duke University
+P0192,ASQ,Editorial Board,,Ming Leung,"University of California, Irvine, USA"
+P0192,Organization Science,Senior Editor,,Ming Leung,"University of California, Irvine"
+P0192,Organization Science,Editorial Review Board,,Ming Leung,
+P0193,Organization Science,Editorial Review Board,,Ben Lewis,Brigham Young University
+P0193,SMJ,Editorial Review Board,,Ben Lewis,"Brigham Young University, U.S.A."
+P0194,Organization Science,Editorial Review Board,,Demetrius Lewis,"University of California, Riverside"
+P0195,Organization Science,Editorial Review Board,,Ying Li,Hong Kong University of Science and Technology
+P0196,Organization Science,Editorial Review Board,,Jamber Li,National University of Singapore
+P0197,Organization Science,Editorial Review Board,,Zhao Li,NYU Stern
+P0197,SMJ,Editorial Review Board,,Zhao Li,"New York University, USA"
+P0198,Organization Science,Senior Editor,,Jessica Huisi Li,University of Washington
+P0198,Organization Science,Editorial Review Board,,Jessica Li,University of Washington
+P0199,Organization Science,Editorial Review Board,,Cha Li,University of Texas at Austin
+P0200,ASQ,Editorial Board,,Michael Lounsbury,"University of Alberta, Canada"
+P0200,Organization Science,Editorial Review Board,,Michael Lounsbury,University of Alberta
+P0201,Organization Science,Promotion and Outreach Editor,,Jino Lu,Washington University in St. Louis
+P0201,Organization Science,Editorial Review Board,,Jino Lu,Washington University in St. Louis
+P0201,SMJ,Editorial Review Board,,Jino Lu,"Washington University in St. Louis, USA"
+P0202,Organization Science,Editorial Review Board,,Fabrice Lumineau,University of Hong Kong
+P0202,SMJ,Editorial Review Board,,Fabrice Lumineau,"University of Hong Kong, Hong Kong"
+P0203,Organization Science,Editorial Review Board,,Razvan Lungeanu,Northeastern University
+P0203,SMJ,Editorial Review Board,,Razvan Lungeanu,"Northeastern University, U.S.A."
+P0204,Organization Science,Editorial Review Board,,Jiao Luo,University of Minnesota
+P0205,Organization Science,Editorial Review Board,,Xiaowei Luo,INSEAD
+P0206,Organization Science,Editorial Review Board,,Elizabeth Lyons,"University of California, San Diego"
+P0207,Organization Science,Editorial Review Board,,Kalle Lyytinen,Case Western Reserve University
+P0208,Organization Science,Editorial Review Board,,Anyi Ma,University of Wisconsin-Madison
+P0209,Organization Science,Editorial Review Board,,Tammy Madsen,Santa Clara University
+P0209,SMJ,Editorial Review Board,,Tammy L Madsen,"Santa Clara University, USA"
+P0210,Organization Science,Editorial Review Board,,Catherine Magelssen,London Business School
+P0210,SMJ,Editorial Review Board,,Catherine Magelssen,"London Business School, U.K."
+P0211,Organization Science,Editorial Review Board,,Pier Vittorio Mannucci,Bocconi University
+P0212,Organization Science,Editorial Review Board,,Arianna Marchetti,London Business School
+P0212,SMJ,Editorial Review Board,,Arianna Marchetti,"London Business School, U.K."
+P0213,Management Science,Associate Editor,Strategy,Astrid Marinoni,Georgia Institute of Technology
+P0213,Organization Science,Editorial Review Board,,Astrid Marinoni,Georgia Institute of Technology
+P0213,SMJ,Editorial Review Board,,Astrid Marinoni,"Georgia Tech University, USA"
+P0214,Organization Science,Editorial Review Board,,David Maslach,Florida State University
+P0215,Organization Science,Editorial Review Board,,Anna Mayo,Carnegie Mellon University
+P0216,Organization Science,Editorial Review Board,,Rory McDonald,"University of Virginia, Darden School of Business"
+P0216,SMJ,Editorial Review Board,,Rory McDonald,"Harvard University, U.S.A."
+P0217,Organization Science,Editorial Review Board,,Anna McKean,The University of Utah
+P0218,Organization Science,Editorial Review Board,,Julia Melin,Dartmouth College
+P0219,Organization Science,Editorial Review Board,,Anca Metiu,ESSEC
+P0220,Organization Science,Editorial Review Board,,Jirs Meuris,University of Wisconsin-Madison
+P0221,Organization Science,Editorial Review Board,,Philipp Meyer-Doyle,INSEAD
+P0221,SMJ,Editorial Review Board,,Philipp Meyer-Doyle,"INSEAD, Singapore"
+P0222,Organization Science,Editorial Review Board,,Alexandra Michel,University of Pennsylvania
+P0223,Organization Science,Editorial Review Board,,Cameron Miller,Syracuse University
+P0223,SMJ,Associate Editor,,Cameron Miller,"Syracuse University, U.S.A."
+P0224,ASQ,Editorial Board,,Amisha Miller,"New York University, USA"
+P0224,Organization Science,Editorial Review Board,,Amisha Miller,NYU Stern
+P0224,SMJ,Editorial Review Board,,Amisha Miller,"New York University, U.S.A."
+P0225,Organization Science,Editorial Review Board,,Denisa Mindruta,HEC Paris
+P0225,SMJ,Editorial Review Board,,Denisa Mindruta,"HEC Paris, France"
+P0226,Organization Science,Editorial Review Board,,Ishva Minefee,University of Illinois at Urbana-Champaign
+P0227,Organization Science,Editorial Review Board,,Hitoshi Mitsuhashi,Waseda University
+P0228,Organization Science,Editorial Review Board,,Sanaz Mobasseri,University College London
+P0229,Organization Science,Editorial Review Board,,Aharon Mohliver,London Business School
+P0229,SMJ,Editorial Review Board,,Aharon Cohen Mohliver,"London Business School, U.K."
+P0230,Organization Science,Editorial Review Board,,Martina Montauti,University of St Gallen
+P0231,ASQ,Communications Editor,,Pedro Monteiro,"Copenhagen Business School, Denmark"
+P0231,Organization Science,Editorial Review Board,,Pedro Monteiro,Copenhagen Business School
+P0232,AMJ,Editorial Review Board,,Jennifer Mueller,
+P0232,Organization Science,Editorial Review Board,,Jen Mueller,University of San Diego
+P0233,Organization Science,Editorial Review Board,,Jenna Myers,University of Toronto
+P0234,Organization Science,Editorial Review Board,,Frank Nagle,Harvard Business School
+P0235,Organization Science,Editorial Review Board,,Leandro Nardi,HEC Paris
+P0235,SMJ,Editorial Review Board,,Leandro Nardi,"HEC Paris, France"
+P0236,Organization Science,Editorial Review Board,,Paul Nary,Wharton
+P0236,SMJ,Editorial Review Board,,Paul Nary,"University of Pennsylvania, U.S.A."
+P0237,Organization Science,Editorial Review Board,,Gabriel Natividad,Universidad de Piura
+P0238,Organization Science,Editorial Review Board,,Weiyi Ng,National University of Singapore
+P0239,Organization Science,Editorial Review Board,,Amit Nigam,Bayes Business School
+P0240,Organization Science,Editorial Review Board,,Elena Novelli,Bayes Business School
+P0240,SMJ,Associate Editor,,Elena Novelli,"City, University of London, U.K."
+P0241,Organization Science,Editorial Review Board,,Samir Nurmohamed,University of Pennsylvania
+P0242,Organization Science,Editorial Review Board,,Elena Obukhova,McGill University
+P0243,AMJ,Editorial Review Board,,Kate Odziemkowska,"University of Toronto, Canada"
+P0243,ASQ,Editorial Board,,Kate Odziemkowska,"University of Toronto, Canada"
+P0243,Organization Science,Senior Editor,,Kate Odziemkowska,University of Toronto
+P0243,Organization Science,Editorial Review Board,,Kate Odziemkowska,"Rotman, University of Toronto"
+P0243,SMJ,Editorial Review Board,,Kate Odziemkowska,"University of Toronto, Canada"
+P0244,Organization Science,Editorial Review Board,,Alexander Oettl,Georgia Tech Scheller
+P0244,SMJ,Editorial Review Board,,Alexander Oettl,"Georgia Institute of Technology, U.S.A."
+P0245,Organization Science,Editorial Review Board,,Nuno Oliveira,Tilburg University
+P0246,Organization Science,Senior Editor,,Elisa Operti,ESSEC
+P0246,Organization Science,Editorial Review Board,,Elisa Operti,ESSEC
+P0247,Organization Science,Editorial Review Board,,Amy Ou,Hong Kong Polytechnic University
+P0248,Organization Science,Editorial Review Board,,Stella Pachidi,University of Cambridge
+P0249,AMJ,Editorial Review Board,,Emily Cox-Pahnke,University of Washington United States
+P0249,ASQ,Editorial Board,,Emily Pahnke,"University of Washington, USA"
+P0249,Organization Science,Editorial Review Board,,Emily Pahnke,University of Washington
+P0250,Organization Science,Editorial Review Board,,Pauli Pakarinen,Aalto University
+P0251,Organization Science,Editorial Review Board,,Claudio Panico,Bocconi University
+P0252,Organization Science,Editorial Review Board,,Eunyoung Park,Hong Kong University of Science and Technology
+P0253,Organization Science,Editorial Review Board,,Shefali Patil,"University of Texas, Austin"
+P0254,AMJ,Editorial Review Board,,Jill Perry-Smith,Emory University United States
+P0254,Organization Science,Editorial Review Board,,Jill Perry-Smith,Emory University
+P0255,AMJ,Editorial Review Board,,Alessandro Piazza,Rice University United States
+P0255,Organization Science,Editorial Review Board,,Alessandro Piazza,Rice University
+P0255,SMJ,Editorial Review Board,,Alessandro Piazza,"Rice University, U.S.A."
+P0256,ASQ,Editorial Board,,Henning Piezunka,"University of Pennsylvania, USA"
+P0256,Management Science,Associate Editor,Organizations,Henning Piezunka,INSEAD
+P0256,Organization Science,Editorial Review Board,,Henning Piezunka,INSEAD
+P0256,SMJ,Editorial Review Board,,Henning Piezunka,"Wharton School of Business, U.S.A."
+P0257,Organization Science,Editorial Review Board,,Julianna Pillemer,New York University
+P0258,Organization Science,Editorial Review Board,,Chris Poliquin,UCLA Anderson School of Management
+P0259,Organization Science,Editorial Review Board,,Rebecca Ponce de Leon,Columbia University
+P0260,AMJ,Editorial Review Board,,Leandro Pongeluppe,"University of Pennsylvania, United States"
+P0260,Organization Science,Editorial Review Board,,Leandro Pongeluppe,"Wharton School, University of Pennsylvania"
+P0260,SMJ,Editorial Review Board,,Leandro Pongeluppe,"Wharton School of Business, U.S.A."
+P0261,Organization Science,Editorial Review Board,,Laura Poppo,University of Kansas
+P0262,Organization Science,Editorial Review Board,,Ethan Poskanzer,"University of Colorado, Boulder"
+P0263,AMJ,Editorial Review Board,,Jo-Ellen Pozner,"Santa Clara University, United States"
+P0263,Organization Science,Editorial Review Board,,Jo-Ellen Pozner,Santa Clara University
+P0264,ASQ,Editorial Board,,Kunyuan Qiao,"Northeastern University, USA"
+P0264,Organization Science,Editorial Review Board,,Kunyuan Qiao,Georgetown University
+P0265,Organization Science,Editorial Review Board,,Eric Quintane,ESMT Berlin
+P0266,Organization Science,Editorial Review Board,,Nevena Radoynovska,Emlyon Business School
+P0267,AMJ,Editorial Review Board,,Joseph Raffiee,University of Southern California United States
+P0267,Organization Science,Editorial Review Board,,Joseph Raffiee,University of Southern California
+P0267,SMJ,Editorial Review Board,,Joe Raffiee,"University of Southern California, U.S.A."
+P0268,ASQ,Editorial Board,,Hatim Rahman,"Northwestern University, USA"
+P0268,Organization Science,Editorial Review Board,,Hatim Rahman,Northwestern University
+P0269,Organization Science,Editorial Review Board,,Aneesh Rai,"University of Maryland, College Park"
+P0270,AMJ,Editorial Review Board,,Lakshmi Ramarajan,Harvard Business School United States
+P0270,Organization Science,Editorial Review Board,,Lakshmi Ramarajan,Harvard Business School
+P0271,Organization Science,Editorial Review Board,,Marlo Raveendran,"University of California, Riverside"
+P0271,SMJ,Editorial Review Board,,Marlo Raveendran,"University of California, Riverside, U.S.A."
+P0272,Organization Science,Editorial Review Board,,Ohad Ref,Ono Academic College
+P0273,Organization Science,Editorial Review Board,,Erin Reid,McMaster University
+P0274,Organization Science,Editorial Review Board,,Patrick Reilly,"University of British Columbia, Sauder School of Business"
+P0275,Organization Science,Editorial Review Board,,Markus Reitzig,University of Vienna
+P0275,SMJ,Editorial Review Board,,Markus Reitzig,"University of Vienna, Austria"
+P0276,Organization Science,Editorial Review Board,,Luke Rhee,"University of California, Irvine"
+P0276,SMJ,Editorial Review Board,,Luke Rhee,"UC Irvine, U.S.A."
+P0277,Organization Science,Editorial Review Board,,Christopher Rider,University of Michigan
+P0278,Organization Science,Editorial Review Board,,Christoph Riedl,Northeastern University
+P0279,Organization Science,Editorial Review Board,,Luis Rios,Purdue University
+P0279,SMJ,Editorial Review Board,,Luis Rios,"University of Pennsylvania, U.S.A."
+P0280,ASQ,Editorial Board,,Vera Rocha,"Copenhagen Business School, Denmark"
+P0280,Organization Science,Senior Editor,,Vera Rocha (On Leave),Copenhagen Business School
+P0280,Organization Science,Editorial Review Board,,Vera Rocha,Copenhagen Business School
+P0280,SMJ,Editorial Review Board,,Vera Rocha,"Copenhagen Business School, Denmark"
+P0281,Organization Science,Editorial Review Board,,Maria Roche,Harvard Business School
+P0281,SMJ,Editorial Review Board,,Maria Roche,"Harvard Business School, U.S.A."
+P0282,Organization Science,Editorial Review Board,,Thomas Roulet,University of Cambridge
+P0283,Management Science,Associate Editor,Organizations,Brian Rubineau,McGill University
+P0283,Organization Science,Editorial Review Board,,Brian Rubineau,McGill University
+P0284,Organization Science,Editorial Review Board,,Esther Sackett,Santa Clara University
+P0285,Organization Science,Editorial Review Board,,Henry Sauermann,ESMT Berlin
+P0285,SMJ,Editorial Review Board,,Henry Sauermann,"ESMT GmbH, Germany"
+P0286,AMJ,Editorial Review Board,,Oliver Schilke,"University of Arizona, United States"
+P0286,Organization Science,Editorial Review Board,,Oliver Schilke,University of Arizona
+P0287,Organization Science,Editorial Review Board,,Anja Schöttner,Humboldt University
+P0288,Organization Science,Editorial Review Board,,Mathis Schulte,HEC Paris
+P0289,Organization Science,Editorial Review Board,,Kathrin Sele,Aalto University
+P0290,AMJ,Editorial Review Board,,Matthew Semadeni,Arizona State University United States
+P0290,Organization Science,Editorial Review Board,,Matthew Semadeni,W.P. Carey School of Business / Arizona State U.
+P0290,SMJ,Associate Editor,,Matthew Semadeni,"Arizona State University, U.S.A."
+P0290,SMJ,Editorial Review Board,,Matthew Semadeni,"Arizona State University, U.S.A."
+P0291,ASQ,Editorial Board,,Victoria Sevcenko,"INSEAD, Singapore"
+P0291,Organization Science,Editorial Review Board,,Victoria Sevcenko,INSEAD
+P0291,SMJ,Editorial Review Board,,Victoria Sevcenko,"INSEAD, Singapore"
+P0292,Organization Science,Editorial Review Board,,Pri Shah,University of Minnesota
+P0293,ASQ,Associate Editor,,Amanda Sharkey,"University of Notre Dame, USA"
+P0293,Organization Science,Editorial Review Board,,Amanda Sharkey,Arizona State University
+P0294,Organization Science,Editorial Review Board,,Catherine Shea,Carnegie Mellon University
+P0295,Organization Science,Editorial Review Board,,Wei Shi,University of Miami
+P0295,SMJ,Editorial Review Board,,Wei Shi,"University of Miami, U.S.A."
+P0296,ASQ,Editorial Board,,Taekjin Shin,"San Diego State University, USA"
+P0296,Organization Science,Editorial Review Board,,Taekjin Shin,San Diego State University
+P0297,Management Science,Associate Editor,Strategy,Jasjit Singh,INSEAD
+P0297,Organization Science,Editorial Review Board,,Jasjit Singh,INSEAD
+P0297,SMJ,Editorial Review Board,,Jasjit Singh,"INSEAD, France"
+P0298,Organization Science,Editorial Review Board,,Kristin Smith-Crowe,Boston University
+P0299,Organization Science,Editorial Review Board,,Isabelle Solal,ESSEC Business School
+P0300,AMJ,Editorial Review Board,,Gretchen Spreitzer,University of Michigan United States
+P0300,Organization Science,Editorial Review Board,,Gretchen Spreitzer,University of Michigan
+P0301,Organization Science,Editorial Review Board,,Kannan Srikanth,The Ohio State University
+P0302,Management Science,Associate Editor,Organizations,Adina Sterling,Columbia University
+P0302,Organization Science,Editorial Review Board,,Adina Sterling,Stanford University
+P0303,AMJ,Editorial Review Board,,Flannery Stevens,Villanova University United States
+P0303,Organization Science,Editorial Review Board,,Flannery Stevens,Villanova University
+P0304,ASQ,Editorial Board,,Bryan Stroube,"University of Kentucky, USA"
+P0304,Organization Science,Editorial Review Board,,Bryan Stroube,University of Kentucky
+P0304,SMJ,Editorial Review Board,,Bryan Stroube,"University of Kentucky, U.S.A."
+P0305,Organization Science,Editorial Review Board,,Fernando Suarez,Northeastern University
+P0306,Organization Science,Editorial Review Board,,Till Talaulicar,University of Erfurt
+P0307,Organization Science,Editorial Review Board,,Lisa Tang,"NUS Business School, National University of Singapore"
+P0307,SMJ,Editorial Review Board,,Lisa Tang,"National University of Singapore, Singapore"
+P0308,Organization Science,Editorial Review Board,,Yi Tang,Hong Kong University
+P0308,SMJ,Editorial Review Board,,Yi Tang,"University of Hong Kong, China"
+P0309,AMJ,Editorial Review Board,,Stefano Tasselli,University of Exeter United Kingdom
+P0309,Organization Science,Editorial Review Board,,Stefano Tasselli,University of Exeter
+P0310,Organization Science,Editorial Review Board,,Markus Taussig,Rutgers University
+P0311,Organization Science,Editorial Review Board,,Florenta Teodoridis,University of Southern California
+P0311,SMJ,Associate Editor,,Florenta Teodoridis,"University of Southern Carlifornia, U.S.A."
+P0312,Organization Science,Editorial Review Board,,Basima Tewfik,Massachusetts Institute of Technology
+P0313,Organization Science,Editorial Review Board,,Michael Toffel,Harvard Business School
+P0313,SMJ,Editorial Review Board,,Michael Toffel,"Harvard University, U.S.A."
+P0314,Organization Science,Editorial Review Board,,Tony Tong,"University of Colorado, Boulder"
+P0314,SMJ,Editorial Review Board,,Tony Tong,"University of Colorado Boulder, U.S.A."
+P0315,Organization Science,Editorial Review Board,,Casidhe Troyer,London Business School
+P0316,Organization Science,Editorial Review Board,,Daniel Tzabbar,Drexel University
+P0316,SMJ,Editorial Review Board,,Daniel Tzabbar,"Drexel University, U.S.A."
+P0317,ASQ,Editorial Board,,Jose Uribe,"Indiana University, USA"
+P0317,Organization Science,Editorial Review Board,,Jose Uribe,Indiana University
+P0317,SMJ,Editorial Review Board,,Jose Uribe,"University of Michigan, U.S.A."
+P0318,ASQ,Editorial Board,,Melissa Valentine,"Stanford University, USA"
+P0318,Organization Science,Editorial Review Board,,Melissa Valentine,Stanford University
+P0319,AMJ,Editorial Review Board,,Gerben S. Van Der Vegt,University of Groningen Netherlands
+P0319,Organization Science,Editorial Review Board,,Gerben Van der Vegt,University of Groningen
+P0320,Organization Science,Editorial Review Board,,Bart Vanneste,University College London
+P0320,SMJ,Editorial Review Board,,Bart Vanneste,"University College London, U.K."
+P0321,AMJ,Editorial Review Board,,Gurneeta Vasudeva,University of Minnesota United States
+P0321,Organization Science,Editorial Review Board,,Gurneeta Vasudeva,University of Minnesota
+P0322,AMJ,Editorial Review Board,,Vijaya Venkataramani,University of Maryland College Park United States
+P0322,Organization Science,Editorial Review Board,,Vijaya Venkataramani,UMD
+P0323,Organization Science,Editorial Review Board,,Freek Vermeulen,London Business School
+P0324,Organization Science,Editorial Review Board,,Natalya Vinokurova,Lehigh University
+P0325,AMJ,Editorial Review Board,,Balagopal Vissa,INSEAD Singapore
+P0325,Organization Science,Editorial Review Board,,Bala Vissa,INSEAD
+P0326,AMJ,Editorial Review Board,,Heather Ciara Vough,"George Mason University, United States"
+P0326,Organization Science,Editorial Review Board,,Heather Vough,George Mason University
+P0327,Organization Science,Editorial Review Board,,Tim Weiss,Imperial
+P0328,Organization Science,Editorial Review Board,,Georg Wernicke,HEC Paris
+P0328,SMJ,Editorial Review Board,,Georg Wernicke,"HEC Paris, France"
+P0329,Organization Science,Editorial Review Board,,Phebo Wibbens,INSEAD
+P0329,SMJ,Editorial Review Board,,Phebo Wibbens,"INSEAD, France"
+P0330,Organization Science,Editorial Review Board,,Dan Wilde,Indiana University
+P0331,Organization Science,Editorial Review Board,,Hendrik Wilhelm,Witten/Herdecke University
+P0332,AMJ,Editorial Review Board,,Trenton A. Williams,"Brigham Young University, United States"
+P0332,Organization Science,Editorial Review Board,,Trent Williams,BYU-Marriott School of Business
+P0333,AMJ,Editorial Review Board,,Scott Wiltermuth,"University of Southern California, United States"
+P0333,Organization Science,Editorial Review Board,,Scott Wiltermuth,University of Southern California
+P0334,Organization Science,Editorial Review Board,,Shinjae Won,University of Illinois at Urbana-Champaign
+P0335,Organization Science,Editorial Review Board,,Audra Wormald,University of North Carolina
+P0335,SMJ,Editorial Review Board,,Audra Wormald,"University of North Carolina at Chapel Hill, U.S.A."
+P0336,Organization Science,Editorial Review Board,,Adam Wowak,University of Notre Dame
+P0336,SMJ,Associate Editor,,Adam Wowak,"University of Notre Dame, U.S.A."
+P0337,Organization Science,Editorial Review Board,,Nataliya Wright,Columbia Business School
+P0338,AMJ,Editorial Review Board,,Tyler Wry,University of Pennsylvania United States
+P0338,ASQ,Editorial Board,,Tyler Wry,"University of Pennsylvania, USA"
+P0338,Organization Science,Editorial Review Board,,Tyler Wry,Wharton School
+P0339,Organization Science,Editorial Review Board,,Andy Wu,Harvard Business School
+P0339,SMJ,Editorial Review Board,,Andy Wu,"Harvard University, U.S.A."
+P0340,Organization Science,Editorial Review Board,,Adele Xing,Santa Clara University
+P0341,Organization Science,Editorial Review Board,,Sam Yam,National University of Singapore
+P0342,Organization Science,Editorial Review Board,,Tom Taiyi Yan,UCL (University College London) School of Management
+P0343,Organization Science,Editorial Review Board,,Tiantian Yang,The Wharton School
+P0343,SMJ,Editorial Review Board,,Tiantian Yang,"University of Pennsylvania, U.S.A."
+P0344,Organization Science,Editorial Review Board,,Wei Yang,CEIBS
+P0345,Organization Science,Editorial Review Board,,Sai Yayavaram,Indian Institute of Management Bangalore
+P0345,SMJ,Editorial Review Board,,Sai Yayavaram,"Indian Institute of Management Bangalore, India"
+P0346,Organization Science,Editorial Review Board,,Elle Hyunjung Yoon,Iowa State University
+P0347,AMJ,Editorial Review Board,,Jeff York,University of Colorado-Boulder United States
+P0347,Organization Science,Editorial Review Board,,Jeffrey York,"University of Colorado, Boulder"
+P0348,Organization Science,Editorial Review Board,,Siyu Yu,University of Michigan
+P0349,ASQ,Editorial Board,,Evelyn Ying Zhang,"Nanyang Technological University, Singapore"
+P0349,Organization Science,Editorial Review Board,,Evelyn Zhang,"Nanyang Business School, NTU, Singapore"
+P0350,Organization Science,Editorial Review Board,,Letian Zhang,Harvard Business School
+P0351,Organization Science,Editorial Review Board,,Ting Zhang,Harvard Business School
+P0352,AMJ,Editorial Review Board,,Eric Zhao,University of Oxford United Kingdom
+P0352,Organization Science,Editorial Review Board,,Eric Yanfei Zhao,Oxford University
+P0353,Organization Science,Editorial Review Board,,Minyuan Zhao,Washington University in St. Louis
+P0353,SMJ,Guest Associate Editor,,Minyuan Zhao,"Washington University in St. Louis, U.S.A."
+P0354,AMJ,Editorial Review Board,,Pavel Ivanov Zhelyazkov,The Hong Kong University of Science and Technology China
+P0354,ASQ,Editorial Board,,Pavel Zhelyazkov,"The Hong Kong University of Science and Technology, Hong Kong"
+P0354,Management Science,Associate Editor,Organizations,Pavel Zhelyazkov,Hong Kong University of Science and Technology
+P0354,Organization Science,Editorial Review Board,,Pavel Zhelyazkov,Hong Kong University of Science and Technology
+P0354,SMJ,Associate Editor,,Pavel Zhelyazkov,"Hong Kong University of Science and Technology, HKUST, Hong Kong"
+P0355,Management Science,Associate Editor,Strategy,Maggie Zhou,University of Michigan
+P0355,Organization Science,Editorial Review Board,,Maggie Zhou,University of Michigan
+P0355,SMJ,Guest Associate Editor,,Yue Maggie Zhou,"University of Michigan, U.S.A."
+P0356,Organization Science,Editorial Review Board,,Julian Zlatev,Harvard Business School
+P0357,ASQ,Editorial Board,,Tiona Zuzul,"Harvard University, USA"
+P0357,Organization Science,Editorial Review Board,,Tiona Zuzul,Harvard Business School
+P0357,SMJ,Editorial Review Board,,Tiona Zuzul,"Harvard Business School, U.S.A."
+P0358,Organization Science,Editorial Review Board,,Daniel Zyung,Southern Methodist University
+P0359,AMJ,Editorial Review Board,,J.-F. Soublière,"HEC Montreal, Canada"
+P0360,AMJ,Associate Editor,,Aaron Hill,"University of Florida, United States"
+P0360,SMJ,Editorial Review Board,,Aaron Hill,"University of Florida, U.S.A."
+P0361,AMJ,Editorial Review Board,,Abbie Griffith Oliver,University of Virginia United States
+P0362,AMJ,Editorial Review Board,,Abbie J. Shipp,Texas Christian University United States
+P0363,Organization Science,Senior Editor,,Abhinav Gupta,University of Washington
+P0363,SMJ,Editorial Review Board,,Abhinav Gupta,"University of Washington, U.S.A."
+P0364,ASQ,Editorial Board,,J. Adam Cobb,"University of Texas at Austin, USA"
+P0364,Organization Science,Senior Editor,,Adam Cobb,University of Texas at Austin
+P0365,AMJ,Editorial Review Board,,Adam Grant,"University of Pennsylvania, United States"
+P0366,SMJ,Editorial Review Board,,Addis Gedefaw Birhanu,"EMLYON Business School, France"
+P0367,SMJ,Editorial Review Board,,Afonso Almeida Costa,"Nova School of Business and Economics, Portugal"
+P0368,Organization Science,Senior Editor,,Alan Benson,University of Minnesota
+P0369,SMJ,Editorial Review Board,,Alberto Galasso,"University of Toronto, Canada"
+P0370,ASQ,Associate Editor,,Aleksandra Kacperczyk,"London Business School, UK"
+P0370,SMJ,Editorial Review Board,,Aleksandra Kacperczyk,"London Business School, UK"
+P0371,Organization Science,Senior Editor,,Alex Murray,University of Oregon
+P0372,Management Science,Associate Editor,Strategy,Alexandre de Cornière,Toulouse School of Economics
+P0373,Management Science,Department Editor,Strategy,Alfonso Gambardella,Bocconi University
+P0373,SMJ,Consulting Editor,,Alfonso Gambardella,"Bocconi University, Italy"
+P0374,AMJ,Editorial Review Board,,Allison S. Gabriel,Purdue University United States
+P0375,AMJ,Editorial Review Board,,Alvaro Cuervo-Cazurra,"Northeastern University, United States"
+P0375,SMJ,SMS Collections Editor,,Alvaro Cuervo-Cazurra,"Northeastern University, U.S.A."
+P0375,SMJ,Editorial Review Board,,Alvaro Cuervo-Cazurra,"Northeastern University, U.S.A."
+P0376,AMJ,Editorial Review Board,,Amanda Cowen,"University of Virginia, United States"
+P0377,ASQ,Editorial Board,,Amanda Ferguson,"Northern Illinois University, USA"
+P0378,Organization Science,Senior Editor,,Amandine Ody-Brasier,McGill University
+P0379,AMJ,Editorial Review Board,,Amy Bartels,"University of Nebraska-Lincoln, USA"
+P0380,AMJ,Editorial Review Board,,Amy E. Colbert,University of Iowa United States
+P0381,AMJ,Editorial Review Board,,Amy Hillman,"Arizona State University, United States"
+P0382,SMJ,Editorial Review Board,,Anand Nandkumar,"Indian School of Business, Inda"
+P0383,Organization Science,Senior Editor,,Anastasia V. Sergeeva,Vrije Universiteit Amsterdam
+P0384,AMJ,Editorial Review Board,,Anastasiya Zavyalova,"Rice University, United States"
+P0384,SMJ,Editorial Review Board,,Anastasiya Zavyalova,"Rice University, U.S.A."
+P0385,AMJ,Editorial Review Board,,Andreas Sebastian König,"University of Passau, Germany"
+P0386,AMJ,Editorial Review Board,,Andreas Wilhelm Richter,"University of Cambridge, United Kingdom"
+P0387,SMJ,Editorial Review Board,,Andrea Contigiani,"Ohio State University, U.S.A."
+P0388,Management Science,Associate Editor,Strategy,Andrea Fosfuri,Bocconi University
+P0388,SMJ,Guest Associate Editor,,Andrea Fosfuri,"Bocconi University, Italy"
+P0388,SMJ,Editorial Review Board,,Andrea Fosfuri,"Bocconi University, Italy"
+P0389,Organization Science,Senior Editor,,Andrea Prencipe,Luiss University (Rome)
+P0390,SMJ,Editorial Review Board,,Andrew Henderson,"University of Texas at Austin, U.S.A."
+P0391,AMJ,Editorial Review Board,,Andrew Pierce Knight,Washington University in St. Louis United States
+P0391,Organization Science,Senior Editor,,Andrew Knight,Washington University in St. Louis
+P0392,AMJ,Editorial Review Board,,Andrew Nelson,University of Oregon United States
+P0392,Organization Science,Deputy Editor,,Andrew Nelson,University of Oregon
+P0393,SMJ,Editorial Review Board,,Andrew Shipilov,"INSEAD, France"
+P0394,Management Science,Department Editor,Strategy,Anita McGahan,University of Toronto
+P0394,Management Science,Associate Editor,Sustainability,Anita McGahan,University of Toronto
+P0395,AMJ,Editorial Review Board,,Anja Krstic,"York University, Canada"
+P0396,Management Science,Associate Editor,Strategy,Annamaria Conti,IE Business School
+P0397,ASQ,Editorial Board,,Anne-Laure Fayard,"NOVA University, Portugal"
+P0397,Organization Science,Senior Editor,,Anne-Laure Fayard,Universidade NOVA de Lisboa
+P0398,SMJ,Editorial Review Board,,Anne Jacqueminet,"ESSEC Business School, France"
+P0399,SMJ,Editorial Review Board,,Anne Parmigiani,"University of Oregon, U.S.A."
+P0400,AMJ,Deputy Editor,,Anne L.J. Ter Wal,"Imperial College London, United Kingdom"
+P0400,ASQ,Editorial Board,,Anne ter Wal,"Imperial College London, UK"
+P0401,AMJ,Editorial Review Board,,Annika Hillebrandt,University of Waterloo Canada
+P0402,AMJ,Editorial Review Board,,Ann Langley,"HEC Montreal, Canada"
+P0402,ASQ,Editorial Board,,Ann Langley,"HEC, Canada"
+P0403,AMJ,Editorial Review Board,,Anthea (Yan) Zhang,"Rice University, United States"
+P0404,AMJ,Editorial Review Board,,Anthony Klotz,"UCL School of Management, United Kingdom"
+P0405,AMJ,Editorial Review Board,,Anthony J. Nyberg,University of South Carolina United States
+P0406,SMJ,Editorial Review Board,,Anu Wadhwa,"Imperial College Business School, UK"
+P0407,AMJ,Editorial Review Board,,Aparna Joshi,"University of Michigan, United States"
+P0408,AMJ,Editorial Review Board,,April L. Wright,"University of Warwick, United Kingdom"
+P0409,SMJ,Editorial Review Board,,Arkadiy Sakhartov,"University of Illinois at Urbana-Champaign, U.S.A."
+P0410,SMJ,Editorial Review Board,,Arturs Kalnins,"University of Iowa, USA"
+P0411,ASQ,Editorial Board,,Arvind Karunakaran,"Stanford University, USA"
+P0412,SMJ,Editorial Review Board,,Asli Musaoglu Arikan,"Kent State University, U.S.A."
+P0413,AMJ,Editorial Review Board,,Astrid Carlotta Homan,University of Amsterdam Netherlands
+P0414,Management Science,Associate Editor,Sustainability,Atasu Atalay,INSEAD
+P0415,SMJ,Editorial Review Board,,Axel Zeijen,"ETH Zurich, Switzerland"
+P0416,Organization Science,Senior Editor,,Balazs Kovacs,Yale University
+P0417,AMJ,Editorial Review Board,,Bart De Jong,Durham University
+P0418,ASQ,Editorial Board,,Batia M. Wiesenfeld,"New York University, USA"
+P0419,AMJ,Editorial Review Board,,Ben Barber,"IE University, Spain"
+P0420,SMJ,Editorial Review Board,,Benjamin Campbell,"Ohio State University, U.S.A."
+P0421,AMJ,Associate Editor,,Benjamin M. Cole,"Fordham University, United States"
+P0422,Management Science,Associate Editor,Organizations,Ben Rissing,Cornell University
+P0423,AMJ,Editorial Review Board,,Bess Rouse,"Boston College, United States"
+P0424,AMJ,Editorial Review Board,,Bonnie Hayden Cheng,"City University of Hong Kong, China"
+P0425,SMJ,Editorial Review Board,,Bo Yang,"University of Hong Kong, Hong Kong"
+P0426,AMJ,Editorial Review Board,,Bradley L. Kirkman,"North Carolina State University, United States"
+P0427,SMJ,Editorial Review Board,,Brent Goldfarb,"University of Maryland, U.S.A."
+P0428,AMJ,Editorial Review Board,,Brent Scott,"Michigan State University, United States"
+P0428,ASQ,Editorial Board,,Brent Scott,"Michigan State University, USA"
+P0428,ASQ,Methods Advisory Panel,,Brent Scott,"Michigan State University, USA"
+P0429,AMJ,Editorial Review Board,,Brett Anitra Gilbert,American University United States
+P0430,AMJ,Editorial Review Board,,Brian S. Klaas,University of Missouri-Kansas City United States
+P0431,SMJ,Consulting Editor,,Brian Silverman,"University of Toronto, Canada"
+P0432,SMJ,Editorial Review Board,,Brian Wu,"University of Michigan, U.S.A."
+P0433,AMJ,Editorial Review Board,,Bruce Avolio,University of Washington United States
+P0434,SMJ,Editorial Review Board,,Bruce Lamont,"Florida State University, U.S.A."
+P0435,SMJ,Editorial Review Board,,Bryan William Husted,"Technological Institute of Monterrey, Mexico"
+P0436,SMJ,Editorial Review Board,,Byungchae Jin,"Korea Advanced Institute of Science and Technology, South Korea"
+P0437,ASQ,Editorial Board,,J. Cameron Verhaal,"Tulane University, USA"
+P0437,SMJ,Editorial Review Board,,Cameron Verhaal,"Tulane University, U.S.A."
+P0438,SMJ,Editorial Review Board,,Carine Peeters,"Vlerick Business School, Belgium"
+P0439,SMJ,Editorial Review Board,,Carmelo Cennamo,"Copenhagen Business School, Denmark"
+P0440,AMJ,Associate Editor,,Carmen Weigelt,"Tulane University, United States"
+P0440,SMJ,Editorial Review Board,,Carmen Weigelt,"Tulane University, U.S.A."
+P0441,Management Science,Department Editor,Sustainability,Caroline Flammer,Columbia University
+P0442,AMJ,Editorial Review Board,,Carolyn Thi Dang,The Pennsylvania State University United States
+P0443,Management Science,Associate Editor,Strategy,Catherine Thomas,London School of Economics
+P0444,AMJ,Editorial Review Board,,Cecily Cooper,"University of Miami, United States"
+P0445,Organization Science,Senior Editor,,Cédric Gutierrez,Bocconi University
+P0445,SMJ,Editorial Review Board,,Cedric Gutierrez,"Bocconi University, Italy"
+P0446,SMJ,Editorial Review Board,,Charles Eesley,"Stanford University, U.S.A."
+P0447,AMJ,Editorial Review Board,,Charlie Stevens,Rutgers University United States
+P0448,AMJ,Associate Editor,,Charlotte Cloutier,"HEC Montreal, Canada"
+P0449,SMJ,Editorial Review Board,,Charlotte Ren,"University of Pennsylvania, U.S.A."
+P0450,Management Science,Department Editor,Organizations,Chengwei Liu,Imperial College London
+P0451,SMJ,Editorial Review Board,,Chi-Nien Chung,"National University of Singapore, Singapore"
+P0452,SMJ,Editorial Review Board,,Chiara Spina,"INSEAD, Singapore"
+P0453,SMJ,Editorial Review Board,,Christian Asmussen,"King's College London, U.K."
+P0454,Management Science,Associate Editor,Sustainability,Christian Gollier,Toulouse School of Economics
+P0455,AMJ,Editorial Review Board,,Christian E. Hampel,
+P0455,Organization Science,Senior Editor,,Christian Hampel,Imperial College
+P0456,SMJ,Editorial Review Board,,Christian Stadler,"TU Berlin, Germany"
+P0457,AMJ,Editorial Review Board,,Christian Troester,"Kühne Logistics University, Germany"
+P0458,AMJ,Editorial Review Board,,Christine Shropshire,Arizona State University United States
+P0459,AMJ,Editorial Review Board,,Christof Brandtner,"EM Lyon Business School, France"
+P0460,SMJ,Editorial Review Board,,Christopher Liu,"Lundquist/University of Oregon, USA"
+P0461,AMJ,Editorial Review Board,,Christopher G. Myers,"Johns Hopkins University, United States"
+P0462,Management Science,Associate Editor,Strategy,Christopher Stanton,Harvard Business School
+P0463,AMJ,Editorial Review Board,,Christopher To,Rutgers University United States
+P0464,ASQ,Editorial Board,,Christopher Yenkey,"University of South Carolina, USA"
+P0464,Management Science,Associate Editor,Organizations,Christopher Yenkey,University of South Carolina
+P0465,SMJ,Editorial Review Board,,Christoph Lechner,"University of St. Gallen, Switzerland"
+P0466,Management Science,Editor-in-Chief,,Christoph H. Loch,"IESE Business School, University of Navarra"
+P0467,SMJ,Editorial Review Board,,Christoph Zott,"IESE Business School, Spain"
+P0468,AMJ,Editorial Review Board,,Christy Zhou Koval,"Smith School of Business, Queen’s University Canada"
+P0469,AMJ,Associate Editor,,Chu-Hsiang Chang,"Michigan State University, United States"
+P0470,AMJ,Editorial Review Board,,Chunyan Peng,
+P0471,Organization Science,Senior Editor,,Claudine Gartenberg,University of Pennsylvania
+P0471,SMJ,Editorial Review Board,,Claudine Gartenberg,"University of Pennsylvania, U.S.A."
+P0472,AMJ,Editorial Review Board,,Colin M. Fisher,"University College London, United Kingdom"
+P0473,AMJ,Editorial Review Board,,Connie R. Wanberg,University of Minnesota United States
+P0474,SMJ,Consulting Editor,,Constance Helfat,"Dartmouth College, U.S.A."
+P0475,AMJ,Editorial Review Board,,Cristiano Guarana,"Indiana University Bloomington, United States"
+P0476,SMJ,Associate Editor,,Cristian Dezso,"University of Maryland, U.S.A."
+P0477,AMJ,Editorial Review Board,,Crystal I Chien Farh,"University of Washington, United States"
+P0478,AMJ,Editorial Review Board,,Cuili Qian,The University of Texas at Dallas United States
+P0478,SMJ,Editorial Review Board,,Cuili Qian,"University of Texas at Dallas, U.S.A."
+P0479,AMJ,Associate Editor,,Cyndi Man Zhang,"Singapore Management University, Singapore"
+P0479,SMJ,Editorial Review Board,,Cyndi Man Zhang,"Singapore Management University, Singapore"
+P0480,AMJ,Editorial Review Board,,Cindy P. Muir (Zapata),University of Notre Dame United States
+P0480,Organization Science,Deputy Editor,,Cindy Muir (Zapata),University of Notre Dame
+P0481,AMJ,Editorial Review Board,,Daan Van Knippenberg,"Rice University, United States"
+P0481,ASQ,Editorial Board,,Daan L. van Knippenberg,"Rice University, USA"
+P0482,SMJ,Editorial Review Board,,Danchi Tan,"National Chengchi University, Taiwan"
+P0483,AMJ,Editorial Review Board,,Danielle Logue,"University of New South Wales, Australia"
+P0484,Management Science,Associate Editor,Organizations,Daniel Effron,London Business School
+P0485,AMJ,Editorial Review Board,,Daniel Gamache,"University of Georgia, United States"
+P0485,ASQ,Editorial Board,,Daniel Gamache,"University of Georgia, USA"
+P0485,SMJ,Associate Editor,,Daniel L. Gamache,"University of Georgia, U.S.A"
+P0485,SMJ,Editorial Review Board,,Daniel Gamache,"University of Georgia, U.S.A."
+P0486,AMJ,Editorial Review Board,,Daniel Heller,Tel Aviv University Israel
+P0487,AMJ,Editorial Review Board,,Daniel McAllister,"National University of Singapore, Singapore"
+P0488,SMJ,Editorial Review Board,,Daniel Sands,"University of College London, U.K."
+P0489,SMJ,Founding and Consulting Editor,,Dan Schendel,"Purdue University, U.S.A."
+P0490,ASQ,Associate Editor,,Dan Wang,"Columbia University, USA"
+P0491,ASQ,Editorial Board,,Danqing Wang,"The Hong Kong University of Science and Technology, Hong Kong"
+P0491,Organization Science,Senior Editor,,Danqing Wang,Hong Kong University of Science and Technology
+P0492,Organization Science,Senior Editor,,Daphne Demetry (On Leave),McGill University
+P0493,AMJ,Editorial Review Board,,Daphne W. Yiu,Singapore Management University Singapore
+P0494,SMJ,Editorial Review Board,,David Chung,"University of Illinois at Urbana-Champaign, U.S.A."
+P0495,SMJ,Editorial Review Board,,David Deephouse,"University of Alberta, Canada"
+P0496,SMJ,Editorial Review Board,,David Hsu,"University of Pennsylvania, USA"
+P0497,ASQ,Book Review Editor,,David A. Kirsch,"University of Maryland, USA"
+P0498,AMJ,Editorial Review Board,,David Lehman,"University of Virginia, United States"
+P0499,SMJ,Editorial Review Board,,David Gaddis Ross,"University of Florida, U.S.A."
+P0500,AMJ,Editorial Review Board,,David G. Sirmon,"University of Washington, United States"
+P0500,SMJ,Editorial Review Board,,David Sirmon,"University of Washington, U.S.A."
+P0501,AMJ,Editorial Review Board,,David Souder,Michigan State University United States
+P0501,SMJ,Editorial Review Board,,David Souder,"University of Connecticut, U.S.A."
+P0502,AMJ,Editorial Review Board,,David T. Wagner,University of Oregon United States
+P0503,SMJ,Editorial Review Board,,David Waguespack,"University of Maryland, U.S.A."
+P0504,AMJ,Editorial Review Board,,David A. Waldman,Arizona State University United States
+P0505,SMJ,Editorial Review Board,,David Wehrheim,"IESE Business School, Spain"
+P0506,AMJ,Editorial Review Board,,Dean Shepherd,"University of Notre Dame, United States"
+P0507,SMJ,Editorial Review Board,,Deepak Somaya,"University of Illinois at Urbana-Champaign, U.S.A."
+P0508,AMJ,Editorial Review Board,,Denis A. Grégoire,"HEC Montreal, Canada"
+P0509,AMJ,Editorial Review Board,,Dennis Veltrop,University of Groningen Netherlands
+P0510,SMJ,Editorial Review Board,,Devaki Rau,"Northern Illinois University, U.S.A."
+P0511,ASQ,Editorial Board,,M. Diane Burton,"Cornell University, USA"
+P0512,SMJ,Editorial Review Board,,Dirk Martignoni,"University of Lugano, Switzerland"
+P0513,AMJ,Editorial Review Board,,Donald D Bergh,University of Denver United States
+P0513,SMJ,Editorial Review Board,,Donald Bergh,"University of Denver, U.S.A."
+P0514,AMJ,Editorial Review Board,,Don Lange,"Arizona State University, United States"
+P0515,AMJ,Editorial Review Board,,Douglas J. Brown,University of Waterloo Canada
+P0516,Management Science,Associate Editor,Organizations,Douglas Guilbeault,Stanford University
+P0517,SMJ,Editorial Review Board,,Douglas Hannah,"Boston University, U.S.A."
+P0518,SMJ,Editorial Review Board,,Doug Miller,"Rutgers University, U.S.A."
+P0519,AMJ,Editorial Review Board,,Edward Levitas,University of Wisconsin-Milwaukee United States
+P0520,AMJ,Editorial Review Board,,Eero Vaara,University of Oxford United Kingdom
+P0521,AMJ,Editorial Review Board,,Elena Dalpiaz,
+P0522,SMJ,Editorial Review Board,,Elena Kulchina,"North Carolina State University, USA"
+P0523,SMJ,Editorial Review Board,,Elena Plaksenkova,"Ohio State University, U.S.A."
+P0524,SMJ,Editorial Review Board,,Elena Vidal,"City University of New York, U.S.A."
+P0525,AMJ,Editorial Review Board,,Eliana Crosina,Babson College United States
+P0525,ASQ,Editorial Board,,Eliana Crosina,"Babson College, USA"
+P0526,AMJ,Editorial Review Board,,Elie Matta,HEC Paris France
+P0527,Management Science,Associate Editor,Organizations,Eliot Sherman,Georgetown University
+P0528,AMJ,Editorial Review Board,,Elizabeth Margaret Campbell,University of Minnesota United States
+P0529,ASQ,Editor,,Beth Bechky,"University of California, Davis, USA"
+P0530,AMJ,Editorial Review Board,,Elizabeth George,"University of Cambridge, United Kingdom"
+P0531,ASQ,Editorial Board,,Elizabeth Pontikes,"University of California, Davis, USA"
+P0531,Management Science,Department Editor,Organizations,Elizabeth Pontikes,"University of California, Davis"
+P0532,AMJ,Editorial Review Board,,Beth Schinoff,"University of Delaware, United States"
+P0533,AMJ,Editorial Review Board,,Elizabeth Eve Umphress,University of Washington United States
+P0534,SMJ,Editorial Review Board,,Emanuele L M Bettinazzi,"Universita` della Svizzera Italiana, Italy"
+P0535,AMJ,Editorial Review Board,,Emilie Feldman,"The Wharton School, University of Pennsylvania United States"
+P0535,Organization Science,Senior Editor,,Emilie Feldman,University of Pennsylvania
+P0535,SMJ,Guest Associate Editor,,Emilie Feldman,"University of Pennsylvania, U.S.A."
+P0536,ASQ,Associate Editor,,Emily C. Bianchi,"Emory University, USA"
+P0537,ASQ,Editorial Board,,Emily S. Block,"University of Alberta, Canada"
+P0538,AMJ,Editorial Review Board,,Emily Grijalva,Emily Grijalva Person United States
+P0539,AMJ,Editorial Review Board,,Emma Frank,"The Ohio State University, USA"
+P0540,AMJ,Editorial Review Board,,Eric W. K. Tsang,The University of Texas at Dallas United States
+P0541,ASQ,Editorial Board,,Ethan Bernstein,"Harvard University, USA"
+P0542,SMJ,Associate Editor,,Evan Rawley,"University of Connecticut, U.S.A."
+P0543,SMJ,Associate Editor,,Evan Starr,"University of Maryland, U.S.A."
+P0544,AMJ,Editorial Review Board,,Evelyn Rita Micelotta,University of Vermont United States
+P0545,AMJ,Editorial Review Board,,Ewald Kibler,Aalto University School of Business Finland
+P0546,ASQ,Associate Editor,,Fabrizio Ferraro,"IESE Business School, Spain"
+P0547,AMJ,Associate Editor,,Fadel Khalil Matta,"University of Georgia, United States"
+P0548,ASQ,Editorial Board,,Felipe Massa,"University of Vermont, USA"
+P0549,SMJ,Associate Editor,,Filippo Wezel,"The University of Hong Kong, Hong Kong, SAR, China"
+P0550,SMJ,Editorial Review Board,,Florence Honore,"University of Wisconsin-Madison, U.S.A."
+P0551,SMJ,Editorial Review Board,,Flore Bridoux,"Erasmus University Rotterdam, the Netherlands"
+P0552,Management Science,Associate Editor,Strategy,Florian Englmaier,LMU Munich
+P0553,SMJ,Editorial Review Board,,Francesco Castellaneta,"SKEMA Business School, France"
+P0554,SMJ,Associate Editor,,"Francisco Polidoro, Jr.","University of Texas at Austin, U.S.A."
+P0555,AMJ,Editorial Review Board,,Frank Walter,Justus Liebig University Giessen Germany
+P0556,AMJ,Editorial Review Board,,Garima Sharma,American University United States
+P0557,SMJ,Editorial Review Board,,Gary Dushnitsky,"London Business School, U.K."
+P0558,AMJ,Editorial Review Board,,Georg von Krogh,"ETH Zurich, Switzerland"
+P0559,AMJ,Editorial Review Board,,Gerard George,Georgetown University United States
+P0560,SMJ,Editorial Review Board,,Gerard P Hodgkinson,"University of Manchester, UK"
+P0561,AMJ,Editorial Review Board,,Gerry M. McNamara,Michigan State University United States
+P0562,Organization Science,Senior Editor,,Giacomo Negro,Emory University
+P0563,ASQ,Social Media Editor,,Giada Baldessarelli,"Stockholm School of Economics, Sweden"
+P0564,Organization Science,Senior Editor,,Gianluca Carnabuci,European School of Management and Technology
+P0565,SMJ,Associate Editor,,Gianmario Verona,"Bocconi University, Italy"
+P0566,AMJ,Editorial Review Board,,Gianpiero Petriglieri,"INSEAD, France"
+P0566,ASQ,Editorial Board,,Gianpiero Petriglieri,"INSEAD, France"
+P0567,AMJ,Editorial Review Board,,Gilad Chen,"University of Maryland, United States and Bar Ilan University, Israel"
+P0568,SMJ,Editorial Review Board,,Gina Dokko,"University of California, Davis, U.S.A."
+P0569,SMJ,Associate Editor,,Gino Cattani,"New York University, U.S.A."
+P0570,SMJ,Editorial Review Board,,Giovanni Battista Dagnino,"LUMSA University, Italy"
+P0571,Management Science,Associate Editor,Strategy,Giovanni Valentini,Universidad de Navarra
+P0571,SMJ,Editorial Review Board,,Giovanni Valentini,"LUISS University, Italy"
+P0572,SMJ,Editorial Review Board,,Glenn Hoetker,"Melbourne Business School, Australia"
+P0573,SMJ,Editorial Review Board,,Glen Dowell,"Cornell University, U.S.A."
+P0574,Organization Science,Deputy Editor,,Gokhan Ertug,Singapore Management University
+P0575,Management Science,Associate Editor,Strategy,Gonçalo Pacheco de Almeida,HEC Paris
+P0576,SMJ,Editorial Review Board,,Govert Vroom,"IESE Business School, Spain"
+P0577,AMJ,Editorial Review Board,,Grace Augustine,
+P0577,Organization Science,Senior Editor,,Grace Augustine,University of Bath
+P0578,ASQ,Associate Editor,,Greta Hsu,"University of California, Davis, USA"
+P0579,Management Science,Associate Editor,Sustainability,Guojun He,Hong Kong University
+P0580,Organization Science,Senior Editor,,Guoli Chen,INSEAD
+P0580,SMJ,Editorial Review Board,,Guoli Chen,"INSEAD, Singapore campus"
+P0581,Management Science,Associate Editor,Sustainability,Guy Holburn,University of Western Ontario
+P0581,SMJ,Editorial Review Board,,Guy Holburn,"University of Western Ontario, Canada"
+P0582,SMJ,Editorial Review Board,,Gwendolyn Lee,"University of Florida, U.S.A."
+P0583,AMJ,Editorial Review Board,,Hans Frankort,Bayes Business School United Kingdom
+P0583,SMJ,Editorial Review Board,,Hans Frankort,"City, University of London, U.K."
+P0584,SMJ,Editorial Review Board,,Han Jiang,"The Chinese University of Hong Kong, Hong Kong"
+P0585,Management Science,Associate Editor,Sustainability,Hao Liang,Singapore Management University
+P0585,SMJ,Editorial Review Board,,Hao Liang,"Singapore Management University, Singapore"
+P0586,SMJ,Editorial Review Board,,Haram Seo,"Texas A&M University, U.S.A."
+P0587,SMJ,Associate Editor,,Hart Posen,"Dartmouth College, U.S.A."
+P0588,Management Science,Associate Editor,Organizations,Hazhir Rahmandad,Massachusetts Institute of Technology
+P0589,SMJ,Editorial Review Board,,Ha Hoang,"ESSEC Business School, France"
+P0590,Organization Science,Senior Editor,,Heather Berry,Georgetown University
+P0590,SMJ,Editorial Review Board,,Heather Berry,"Georgetown University, U.S.A."
+P0591,AMJ,Editorial Review Board,,Heechun Kim,University of Calgary Canada
+P0592,AMJ,Editorial Review Board,,Hengchen Dai,University of California Los Angeles United States
+P0592,Organization Science,Senior Editor,,Hengchen Dai,University of California Los Angeles
+P0593,SMJ,Editorial Review Board,,Hermann Ndofor,"Indiana University, U.S.A."
+P0594,AMJ,Editorial Review Board,,Holger Patzelt,Technical University of Munich Germany
+P0595,SMJ,Editorial Review Board,,Hong Luo,"Harvard University, USA"
+P0596,AMJ,Editorial Review Board,,Hovig Tchalian,"University of Southern California, United States"
+P0597,AMJ,Editorial Review Board,,Huiwen Lian,Texas A&M University United States
+P0598,Management Science,Associate Editor,Organizations,Hyejin Youn,Northwestern University
+P0599,SMJ,Editorial Review Board,,Hyoung-Goo Kang,"Hanyang University, South Korea"
+P0600,SMJ,Editorial Review Board,,Hyo Kang,"University of Southern California, U.S.A."
+P0601,AMJ,Editorial Review Board,,Hyunsun Park,"Georgia Institute of Technology, United States"
+P0602,Management Science,Associate Editor,Organizations,Ian Larkin,"University of California, Los Angeles"
+P0603,ASQ,Editorial Board,,Ileana Stigliani,"Imperial College London, UK"
+P0604,AMJ,Editorial Review Board,,Ilya Cuypers,Singapore Management University Singapore
+P0604,SMJ,Editorial Review Board,,Ilya Cuypers,"Singapore Management University, Singapore"
+P0605,SMJ,Editorial Review Board,,Ilze Kivleniece,"INSEAD, France"
+P0606,SMJ,Editorial Review Board,,Ines Black,"Duke University, U.S.A."
+P0607,AMJ,Editorial Review Board,,Inga Jasmin Hoever,Erasmus University Rotterdam Netherlands
+P0607,Organization Science,Senior Editor,,Inga Hoever,Erasmus University
+P0608,AMJ,Editorial Review Board,,Ingo Weller,"LMU Munich, Germany"
+P0609,AMJ,Editorial Review Board,,Innan Sasaki,"University of Warwick, United Kingdom"
+P0610,Management Science,Associate Editor,Sustainability,Ioannis Ioannou,London Business School
+P0610,SMJ,Guest Associate Editor,,Ioannis Ioannou,"London Business School, U.K."
+P0611,Management Science,Department Editor,Organizations,Isabel Fernandez-Mateo,London School of Business
+P0612,SMJ,Editorial Review Board,,Ishtiaq Mahmood,"National University of Singapore, Singapore"
+P0613,SMJ,Associate Editor,,Ivana Naumovska,"INSEAD, Singapore"
+P0614,AMJ,Editorial Review Board,,Ivona Hideg,University of Oxford Canada
+P0614,ASQ,Methods Advisory Panel,,Ivona Hideg,"York University, Canada"
+P0615,Organization Science,Senior Editor,,Jackson Lu,Massachusetts Institute of Technology
+P0616,SMJ,Editorial Review Board,,Jackson Nickerson,"Washington University in St. Louis, U.S.A."
+P0617,SMJ,Editorial Review Board,,James Combs,"University of Central Florida, U.S.A."
+P0618,AMJ,Editorial Review Board,,James Lemoine,"SUNY at Buffalo, United States"
+P0619,SMJ,Editorial Review Board,,James Ostler,"University of Michigan, U.S.A."
+P0620,ASQ,Editorial Board,,James Wade,"George Washington University, USA"
+P0621,ASQ,Editorial Board,,James D. Westphal,"University of Michigan, USA"
+P0622,AMJ,Editorial Review Board,,Jamie L. Gloor,"University of St.Gallen, Switzerland"
+P0623,AMJ,Associate Editor,,Jamie Jocelyn Ladge,"Boston College, United States"
+P0624,Management Science,Associate Editor,Organizations,Jana Gallus,"University of California, Los Angeles"
+P0625,Management Science,Associate Editor,Sustainability,Jan Starsman,Stockholm School of Economics
+P0626,AMJ,Editorial Review Board,,Jason Colquitt,"University of Notre Dame, United States"
+P0626,ASQ,Editorial Board,,Jason A. Colquitt,"University of Notre Dame, USA"
+P0627,AMJ,Editorial Review Board,,Jason D. Shaw,Nanyang Technological University Singapore
+P0628,ASQ,Editorial Board,,Jean-François Soublière,"HEC Montréal, Canada"
+P0629,AMJ,Editorial Review Board,,Jean-Philippe Vergne,UCL – University of London United Kingdom
+P0629,SMJ,Editorial Review Board,,Jean-Philippe Vergne,"University College London, U.K."
+P0630,Management Science,Associate Editor,Strategy,Jeanine Miklos-Thal,University of Rochester
+P0631,ASQ,Book Review Editor,,Jeannette Colyvas,"Northwestern University, USA"
+P0632,AMJ,Editorial Review Board,,Jean Siobhan Clarke,emlyon business school France
+P0633,AMJ,Editorial Review Board,,Jeffery LePine,"Arizona State University, United States"
+P0634,SMJ,Editorial Review Board,,Jeffrey Barden,"Oregon State University, U.S.A."
+P0635,SMJ,Editorial Review Board,,Jeffrey Reuer,"Purdue University, U.S.A."
+P0636,SMJ,Editorial Review Board,,Jeho Lee,"Seoul National University, South korea"
+P0637,AMJ,Editorial Review Board,,Jennifer J. Kish-Gephart,University of Massachusetts Amherst United States
+P0638,AMJ,Editorial Review Board,,Jennifer Carson Marr,University of Maryland College Park United States
+P0638,Organization Science,Senior Editor,,Jennifer Carson Marr,University of Maryland
+P0639,ASQ,Editorial Board,,Jennifer Merluzzi,"George Washington University, USA"
+P0639,Organization Science,Senior Editor,,Jennifer Merluzzi,George Washington University
+P0640,AMJ,Editorial Review Board,,Jennifer Nahrgang,University of Iowa United States
+P0641,SMJ,Editorial Review Board,,Jennifer Oetzel,"American University, U.S.A."
+P0642,ASQ,Editorial Board,,Jennifer Petriglieri,"INSEAD, France"
+P0643,SMJ,Editorial Review Board,,Jens Schmidt,"Aalto University, Finland"
+P0644,AMJ,Editorial Review Board,,Jerayr M. Haleblian,University of California Riverside United States
+P0644,SMJ,Editorial Review Board,,Jerayr Haleblian,"University of California, Riverside, U.S.A."
+P0645,AMJ,Editorial Review Board,,Jessica Beth Rodell,University of Georgia United States
+P0646,AMJ,Editorial Review Board,,Jianhong Chen,University of New Hampshire United States
+P0647,AMJ,Editorial Review Board,,Jiatao Li,The Hong Kong University of Science and Technology China
+P0647,Management Science,Department Editor,Strategy,Jiatao Li,Hong Kong University of Science and Technology
+P0647,SMJ,Editorial Review Board,,Jiatao Li,"Hong Kong University of Science and Technology, Hong Kong"
+P0648,AMJ,Editorial Review Board,,Jia Jasmine Hu,Tsinghua University China
+P0649,Management Science,Associate Editor,Strategy,Jie Gong,University of Hong Kong
+P0650,Management Science,Associate Editor,Strategy,Jingtao Yi,Renmin Business School
+P0651,SMJ,Editorial Review Board,,JingYu (Gracy) Yang,"University of Sydney, Australia"
+P0652,SMJ,Editorial Review Board,,Jin Hyung Kim,"George Washington University, U.S.A."
+P0653,Management Science,Associate Editor,Strategy,Jin Li,University of Hong Kong
+P0654,SMJ,Editorial Review Board,,Joanna Campbell,"University of Cincinnati, U.S.A."
+P0655,SMJ,Editorial Review Board,,Joao Albino-Pimentel,"University of South Carolina, U.S.A."
+P0656,AMJ,Editorial Review Board,,Joel Gehman,The George Washington University United States
+P0656,ASQ,Editorial Board,,Joel Gehman,"George Washington University, USA"
+P0657,AMJ,Editorial Review Board,,Joel Koopman,Texas A&M University United States
+P0658,AMJ,Editorial Review Board,,Joep Cornelissen,"Erasmus University Rotterdam, Netherlands"
+P0659,AMJ,Editorial Review Board,,Joern Hoppmann,"University of Oldenburg, Germany"
+P0660,AMJ,Editorial Review Board,,John Matthew Amis,"University of Edinburgh, United Kingdom"
+P0661,AMJ,Associate Editor,,John R. Busenbark,"University of Notre Dame, United States"
+P0661,SMJ,Editorial Review Board,,John Busenbark,"University of Notre Dame, U.S.A."
+P0662,SMJ,Editorial Review Board,,John de Figueiredo,"Duke University, U.S.A."
+P0663,AMJ,Editorial Review Board,,John Dencker,"Northeastern University, United States"
+P0664,AMJ,Editorial Review Board,,John P. Hausknecht,Cornell University United States
+P0665,AMJ,Editorial Review Board,,John R. Hollenbeck,Michigan State University United States
+P0666,SMJ,Editorial Review Board,,John Joseph,"University of California Irvine, USA"
+P0667,ASQ,Editorial Board,,John Mawdsley,"HEC Paris, France"
+P0667,SMJ,Editorial Review Board,,John Mawdsley,"HEC Paris, France"
+P0668,AMJ,Editorial Review Board,,John Schaubroeck,University of Missouri-Columbia United States
+P0669,SMJ,Editorial Review Board,,Jonathan Doh,"Villanova School of Business, U.S.A."
+P0670,AMJ,Editorial Review Board,,Jon Michael Jachimowicz,Harvard Business School United States
+P0671,SMJ,Editorial Review Board,,Joost Rietveld,"University College London, U.K."
+P0672,SMJ,Editorial Review Board,,Jordan Siegel,"University of Michigan, U.S.A."
+P0673,SMJ,Editorial Review Board,,Jordi Surroca,"University of Liverpool, UK"
+P0674,ASQ,Editorial Board,,Joseph Broschak,"University of Texas at San Antonio, USA"
+P0675,ASQ,Editorial Board,,Joyce He,"University of California, Los Angeles, USA"
+P0676,Management Science,Associate Editor,Organizations,John-Paul Ferguson,McGill University
+P0676,Organization Science,Senior Editor,,JP Ferguson,McGill University
+P0677,Management Science,Associate Editor,Strategy,Juan Alcacer,Harvard Business School
+P0677,SMJ,Editorial Review Board,,Juan Alcacer,"Harvard University, U.S.A."
+P0678,SMJ,Editorial Review Board,,Juan Santalo,"IE Business School, Spain"
+P0679,AMJ,Editorial Review Board,,Juliane Reinecke,"University of Oxford, United Kingdom"
+P0680,AMJ,Associate Editor,,Julia Brennecke,"University of Liverpool, United Kingdom"
+P0681,Organization Science,Senior Editor,,Julija Mell,Erasmus University Rotterdam
+P0682,SMJ,Editorial Review Board,,Jungbien Moon,"Korea University, South Korea"
+P0683,AMJ,Editorial Review Board,,Justin J.P. Jansen,Erasmus University Rotterdam Netherlands
+P0683,SMJ,Editorial Review Board,,Justin Jansen,"Erasmus University Rotterdam, the Netherlands"
+P0684,AMJ,Editorial Review Board,,Kaifeng Jiang,Peking University China
+P0685,Management Science,Associate Editor,Organizations,Kaisa Snellman,INSEAD
+P0686,SMJ,Editorial Review Board,,Karen Schnatterly,"Virginia Tech, U.S.A."
+P0687,Management Science,Associate Editor,Strategy,Karin Hoisl,University of Mannheim
+P0687,SMJ,Editorial Review Board,,Karin Hoisl,"University of Mannheim, Germany"
+P0688,AMJ,Editorial Review Board,,Karl Taeuscher,The University of Manchester United Kingdom
+P0689,AMJ,Editorial Review Board,,Kate Zipay,Purdue University United States
+P0690,AMJ,Editorial Review Board,,Kathleen Eisenhardt,Stanford University United States
+P0691,AMJ,Editorial Review Board,,Kathryn M. Bartol,University of Maryland College Park United States
+P0692,AMJ,Editorial Review Board,,Katie Badura,"Georgia Institute of Technology, United States"
+P0693,ASQ,Editorial Board,,Katina Sawyer,"University of Arizona, USA"
+P0694,SMJ,Editorial Review Board,,Keith Brouthers,"King's College London, U.K."
+P0695,AMJ,Editorial Review Board,,Keith Hmieleski,Texas Christian University United States
+P0696,AMJ,Editorial Review Board,,Keith Leavitt,"Oregon State University, United States"
+P0697,SMJ,Editorial Review Board,,Keld Laursen,"Copenhagen Business School, Denmark"
+P0698,SMJ,Editorial Review Board,,Kent Miller,"Michigan State University, U.S.A."
+P0699,SMJ,Editorial Review Board,,Kevin Boudreau,"Northeastern University, U.S.A."
+P0700,SMJ,Editorial Review Board,,Kevin Steensma,"University of Washington, U.S.A."
+P0701,SMJ,Editorial Review Board,,Kevin Zhou,"University of Hong Kong, Hong Kong"
+P0702,Organization Science,Senior Editor,,Keyvan Vakili,London Business School
+P0702,SMJ,Editorial Review Board,,Keyvan Vakili,"London Business School, UK"
+P0703,AMJ,Editorial Review Board,,Kira Franziska Schabram,"The Pennsylvania State University, United States"
+P0704,ASQ,Editorial Board,,Kisha Lashley,"University of Virginia, USA"
+P0705,AMJ,Editorial Review Board,,Klodiana Lanaj,University of Florida United States
+P0706,SMJ,Editorial Review Board,,Koen H. Heimeriks,"Warwick Business School, U.K."
+P0707,SMJ,Editorial Review Board,,Kun Yao,"University of Illinois at Urbana-Champaign, U.S.A."
+P0708,AMJ,Editorial Review Board,,Kyle J. Emich,University of Delaware United States
+P0709,AMJ,Editorial Review Board,,Kyle J. Mayer,"University of Southern California, United States"
+P0710,Organization Science,Editor-in-Chief,,Lamar Pierce,"Olin Business School, Washington University in St Louis"
+P0711,AMJ,Editorial Review Board,,D. Lance Ferris,"Queen’s University, Canada"
+P0712,AMJ,Editorial Review Board,,Laszlo Tihanyi,Rice University United States
+P0713,AMJ,Deputy Editor,,Laura McAndrews Little,"University of Georgia, United States"
+P0714,SMJ,Editorial Review Board,,Laurina Zhang,"Boston University, U.S.A."
+P0715,SMJ,Editorial Review Board,,Leena Kinger-Hans,"Indian School of Business, India"
+P0716,SMJ,Editorial Review Board,,Lei Zhang,"University of South Florida, U.S.A."
+P0717,SMJ,Editorial Review Board,,Leo Schmallenbach,"University of Mannheim, Germany"
+P0718,AMJ,Editorial Review Board,,Lindie Liang,Wilfrid Laurier University Canada
+P0719,AMJ,Editorial Review Board,,Lindred L. Greer,University of Michigan United States
+P0719,ASQ,Editorial Board,,Lindred Greer,"University of Michigan, USA"
+P0719,Organization Science,Deputy Editor,,Lindy Greer,University of Michigan
+P0720,SMJ,Editorial Review Board,,Lingling Pan,"University of Pittsburgh, U.S.A."
+P0721,AMJ,Editorial Review Board,,Lingtao Yu,"University of British Columbia, Canada"
+P0722,AMJ,Editorial Review Board,,Linnea Van Dyne,Michigan State University United States
+P0723,AMJ,Editorial Review Board,,Lisa Cohen,"McGill University, Canada"
+P0723,ASQ,Editorial Board,,Lisa Cohen,"McGill University, Canada"
+P0724,AMJ,Editorial Review Board,,Lisa Schurer Lambert,Texas Christian University United States
+P0725,AMJ,Editorial Review Board,,Li Huang,"INSEAD, France"
+P0726,AMJ,Editorial Review Board,,Loizos Th. Heracleous,
+P0727,AMJ,Editorial Review Board,,Louis Mulotte,Tilburg University Netherlands
+P0727,SMJ,Editorial Review Board,,Louis Mulotte,"Tilburg University, the Netherlands"
+P0728,AMJ,Editorial Review Board,,Luigi Mosca,"Imperial College London, United Kingdom"
+P0729,AMJ,Editorial Review Board,,Luis Diestre,IE University Spain
+P0729,SMJ,Editorial Review Board,,Luis Diestre,"IE Business School, Spain"
+P0730,SMJ,Editorial Review Board,,Luiz Mesquita,"Arizona State University, U.S.A."
+P0731,Organization Science,Senior Editor,,Maciej Workiewicz,ESSEC Business School
+P0731,SMJ,Editorial Review Board,,Maciej Workiewicz,"ESSEC Business School, France"
+P0732,Organization Science,Senior Editor,,Madeleine Rauch,University of Cambridge
+P0733,AMJ,Associate Editor,,Madeline Toubiana,"University of Ottawa, Canada"
+P0734,SMJ,Editorial Review Board,,Mahka Moeen,"University of Wisconsin, U.S.A."
+P0735,SMJ,Editorial Review Board,,Manav Raj,"Wharton School of Business, U.S.A."
+P0736,SMJ,Editorial Review Board,,Manuela Hoehn-Weiss,"Oregon State University, U.S.A."
+P0737,AMJ,Editorial Review Board,,Manuel J. Vaulont,"Northeastern University, United States"
+P0738,SMJ,Editorial Review Board,,Mara Guerra,"Bayes Business School, U.K."
+P0739,SMJ,Editorial Review Board,,Marco Giarratana,"IE University, Spain"
+P0740,SMJ,Editorial Review Board,,Marco Testoni,"University of Miami - Herbert Business School, U.S.A."
+P0741,AMJ,Editorial Review Board,,Marco Tortoriello,Bocconi University Italy
+P0742,AMJ,Editorial Review Board,,Marcus Butts,Southern Methodist University United States
+P0743,AMJ,Editorial Review Board,,Marc Gruber,"Ecole Polytechnique Fédérale de Lausanne (EPFL), Switzerland"
+P0744,AMJ,Associate Editor,,Margaret M. Luciano,"The Pennsylvania State University, United States"
+P0745,Management Science,Department Editor,Strategy,Maria Guadalupe,INSEAD
+P0746,Management Science,Associate Editor,Sustainability,Marieke Huysentruyt,HEC Paris
+P0747,AMJ,Editorial Review Board,,Marie S. Mitchell,University of North Carolina at Chapel Hill United States
+P0748,Management Science,Associate Editor,Strategy,Mario Daniele Amore,Bocconi University
+P0748,SMJ,Editorial Review Board,,Mario Daniele Amore,"Bocconi University, Italy"
+P0749,AMJ,Editorial Review Board,,Mario Schijven,University of Illinois at Urbana-Champaign United States
+P0749,SMJ,Editorial Review Board,,Mario Schijven,"University of Illinois at Urbana? Champaign, U.S.A."
+P0750,SMJ,Editorial Review Board,,Markku Maula,"Aalto University, Finland"
+P0751,AMJ,Editorial Review Board,,Marko Pitesa,Singapore Management University Singapore
+P0752,AMJ,Editorial Review Board,,Markus Baer,Washington University in St. Louis United States
+P0753,SMJ,Editorial Review Board,,Markus Fitza,"Frankfurt School of Finance & Management, Germany"
+P0754,AMJ,Editorial Review Board,,Markus Groth,UNSW Sydney Australia
+P0755,ASQ,Editorial Board,,Mark DesJardine,"Dartmouth College, USA"
+P0755,Management Science,Associate Editor,Sustainability,Mark DesJardine,Dartmouth College
+P0755,Organization Science,Senior Editor,,Mark DesJardine,Dartmouth College
+P0755,SMJ,Editorial Review Board,,Mark DesJardine,"Dartmouth College, U.S.A."
+P0756,AMJ,Editorial Review Board,,Mark G. Ehrhart,University of Central Florida United States
+P0757,AMJ,Editorial Review Board,,Mark Maltarich,University of South Carolina United States
+P0758,ASQ,Editorial Board,,Mark S. Mizruchi,"University of Michigan, USA"
+P0759,ASQ,Editorial Board,,Marta A. Geletkanycz,"Boston College, USA"
+P0760,AMJ,Editorial Review Board,,Martha S. Feldman,"University of California-Irvine, United States"
+P0761,Organization Science,Deputy Editor,,Martin Ganco,University of Wisconsin-Madison
+P0762,ASQ,Editorial Board,,Martin Gargiulo,"INSEAD, Singapore"
+P0762,ASQ,Methods Advisory Panel,,Martin Gargiulo,"INSEAD, Singapore"
+P0763,AMJ,Editorial Review Board,,Martin Wörter,ETH Zürich
+P0764,SMJ,Media Co-Editor,,Marvin Lieberman,"University of California, Los Angeles, U.S.A."
+P0765,AMJ,Editorial Review Board,,Mary-Hunter McDonnell,"The Wharton School, University of Pennsylvania United States"
+P0765,ASQ,Editorial Board,,Mary-Hunter McDonnell,"University of Pennsylvania, USA"
+P0766,AMJ,Editorial Review Board,,Marya Besharov,University of Oxford United Kingdom
+P0767,SMJ,Co-Editor,,Mary Benner,"University of Minnesota, U.S.A."
+P0768,SMJ,Editorial Review Board,,Mary Han,"Ryerson University, Canada"
+P0769,AMJ,Editorial Review Board,,Mary Elizabeth Mawritz,Drexel University United States
+P0770,SMJ,Associate Editor,,Mary Tripsas,"University of California, Santa Barbara, U.S.A."
+P0771,AMJ,Editorial Review Board,,Massimo Maoret,IESE Business School Spain
+P0772,ASQ,Editorial Board,,Matthew Bothner,"European School of Management and Technology, Germany"
+P0773,AMJ,Deputy Editor,,Matthew Grimes,"University of Cambridge, United Kingdom"
+P0774,SMJ,Editorial Review Board,,Matt Marx,"Cornell University, USA"
+P0775,AMJ,Editorial Review Board,,Matthias Wenzel,"Leuphana University, Germany & Universidad EAFIT, Colombia"
+P0775,SMJ,Media Co-Editor,,Matthias Wenzel,"Leuphana University, Germany"
+P0776,AMJ,Editorial Review Board,,Maw-Der Foo,Nanyang Technological University Singapore
+P0777,AMJ,Editorial Review Board,,Maxim Voronov,"York University, Canada"
+P0778,Management Science,Associate Editor,Strategy,Megan MacGarvie,Boston University
+P0779,SMJ,Editorial Review Board,,Melody Chang,"University of Southern California, U.S.A."
+P0780,AMJ,Editorial Review Board,,Mia Raynard,The University of British Columbia Canada
+P0780,ASQ,Editorial Board,,Mia Raynard,"University of British Columbia, Canada"
+P0781,SMJ,Editorial Review Board,,Michael Bednar,"University of Illinois at Urbana-Champaign, U.S.A."
+P0782,Organization Science,Senior Editor,,Michael Bikard,INSEAD
+P0782,SMJ,Editorial Review Board,,Michaël Bikard,"INSEAD, France"
+P0783,AMJ,Editorial Review Board,,Michael Christian,"University of North Carolina at Chapel Hill, United States"
+P0784,AMJ,Editorial Review Board,,Michael Frese,"Leuphana University, Germany"
+P0785,SMJ,Editorial Review Board,,Michael Hitt,"Texas A&M University, USA"
+P0786,ASQ,Editorial Board,,Michael Jensen,"University of Michigan, USA"
+P0787,SMJ,Editorial Review Board,,Michael Leiblein,"Ohio State University, U.S.A."
+P0788,SMJ,Editorial Review Board,,Michael Lenox,"University of Virginia, USA"
+P0789,AMJ,Editorial Review Board,,Mike Mannor,University of Notre Dame United States
+P0789,SMJ,Editorial Review Board,,Mike Mannor,"University of Notre Dame, U.S.A."
+P0790,AMJ,Editorial Review Board,,Michael McDonald,The University of Texas at San Antonio United States
+P0790,SMJ,Editorial Review Board,,Michael McDonald,"University of Texas at San Antonio, USA"
+P0791,AMJ,Editorial Review Board,,Michael Parke,University of Pennsylvania United States
+P0792,AMJ,Editorial Review Board,,Mike Pfarrer,University of Georgia United States
+P0793,Management Science,Associate Editor,Strategy,Mike Powell,Northwestern University
+P0794,Organization Science,Senior Editor,,Michael Roach,University of Illinois at Urbana-Champaign
+P0795,AMJ,Editorial Review Board,,Michael V. Russo,University of Oregon United States
+P0796,SMJ,Editorial Review Board,,Mike Teodorescu,"University of Washington, Seattle, U.S.A."
+P0797,AMJ,Editorial Review Board,,Michael C. Withers,University of Notre Dame United States
+P0797,SMJ,Editorial Review Board,,Michael Withers,"Texas A&M University, U.S.A."
+P0798,Organization Science,Deputy Editor,,Michelle Rogan,Oxford University
+P0798,SMJ,Editorial Review Board,,Michelle Rogan,"Imperial College Business School, UK"
+P0799,SMJ,Editorial Review Board,,Miguel Rivera-Santos,"Babson College, U.S.A."
+P0800,SMJ,Editorial Review Board,,Milan Miric,"University of Southern California, U.S.A."
+P0801,ASQ,Editorial Board,,Milo Shaoqing Wang,"Arizona State University, USA"
+P0802,SMJ,Editorial Review Board,,Ming Zhu Wang,"University of Washington, U.S.A."
+P0803,AMJ,Editorial Review Board,,Morela Hernandez,University of Michigan United States
+P0804,SMJ,Editorial Review Board,,Moshe Farjoun,"York University, Canada"
+P0805,AMJ,Editorial Review Board,,Mo Wang,"University of Florida, United States"
+P0806,AMJ,Associate Editor,,Murat Tarakci,"IMD – International Institute for Management Development, Switzerland"
+P0807,ASQ,Methods Advisory Panel,,Myles Shaver,"University of Minnesota, USA"
+P0807,SMJ,Editorial Review Board,,J. Myles Shaver,"University of Minnesota, U.S.A."
+P0808,SMJ,Editorial Review Board,,Myriam Mariani,"Bocconi University, Italy"
+P0809,AMJ,Editorial Review Board,,Nadine Kammerlander,WHU – Otto Beisheim School of Management Germany
+P0810,SMJ,Editorial Review Board,,Naga Lakshmi Damaraju,"Sonoma state university, U.S.A."
+P0811,SMJ,Editorial Review Board,,Nan Zhou,"Tongji University, China"
+P0812,SMJ,Editorial Review Board,,Narae Lee,"KAIST Business School, South Korea"
+P0813,SMJ,Editorial Review Board,,Natalie Burford,"IESE Business School, Spain"
+P0814,SMJ,Associate Editor,,Natarajan Balasubramanian,"Syracuse University, New York, U.S.A."
+P0815,SMJ,Editorial Review Board,,Nathan Barrymore,"University of Texas at Austin, U.S.A."
+P0816,AMJ,Editorial Review Board,,Nathan Philip Podsakoff,The University of Arizona United States
+P0817,Management Science,Associate Editor,Organizations,Nathan Wilmers,Massachusetts Institute of Technology
+P0818,AMJ,Editorial Review Board,,Nelson Phillips,"University of California-Santa Barbara, United States"
+P0819,SMJ,Editorial Review Board,,L. Ngah-Kiing Ling,"Georgia State University, U.S.A."
+P0820,SMJ,Editorial Review Board,,Nicolai Foss,"Bocconi University, Italy"
+P0821,SMJ,Editorial Review Board,,Nicola Lacetera,"University of Toronto, Canada"
+P0822,SMJ,Editorial Review Board,,Nikolaos Kavadis,"Copenhagen Business School, Denmark"
+P0823,Organization Science,Senior Editor,,Nilanjana Dutt,Bocconi University
+P0823,SMJ,Editorial Review Board,,Nilanjana Dutt,"Bocconi University, Italy"
+P0824,AMJ,Editorial Review Board,,Nina Granqvist,Aalto University Finland
+P0825,SMJ,Editorial Review Board,,Niron Hashai,"The Interdisciplinary Center Herzliya, Israel"
+P0826,AMJ,Editorial Review Board,,Nitya Chawla,"University College London, United Kingdom"
+P0827,ASQ,Editorial Board,,Noah Askin,"University of California, Irvine, USA"
+P0828,ASQ,Methods Advisory Panel,,Olav Sorenson,"UCLA, USA"
+P0829,AMJ,Editorial Review Board,,Oliver Alexy,"Technical University of Munich, Germany"
+P0829,SMJ,Editorial Review Board,,Oliver Alexy,"Technical University of Munich, Germany"
+P0830,ASQ,Editorial Board,,Oliver Hahl,"Carnegie Mellon University, USA"
+P0831,ASQ,Editorial Board,,Olivia O’Neill,"George Mason University, USA"
+P0832,AMJ,Associate Editor,,Olivier Bertrand,"FGV EBAPE, Brazil"
+P0833,ASQ,Editorial Board,,Panikos Georgallis,"University of Amsterdam, the Netherlands"
+P0834,AMJ,Editorial Review Board,,Pankaj Kumar,Virginia Tech United States
+P0835,AMJ,Editorial Review Board,,Parthiban David,American University United States
+P0836,AMJ,Editorial Review Board,,Trish Reay,University of Alberta Canada
+P0836,ASQ,Editorial Board,,Trish Reay,"University of Alberta, Canada"
+P0837,AMJ,Editorial Review Board,,Trish Ruebottom,McMaster University Canada
+P0838,AMJ,Deputy Editor,,Paul Bliese,"University of South Carolina, United States"
+P0839,SMJ,Editorial Review Board,,Paul Godfrey,"Brigham Young University, U.S.A."
+P0840,ASQ,Editorial Board,,Paul Gouvard,"ESSEC Business School, France"
+P0840,SMJ,Editorial Review Board,,Paul Gouvard,"Università della Svizzera italiana, Italy"
+P0841,AMJ,Editorial Review Board,,Paul Tracey,University of Cambridge United Kingdom
+P0842,ASQ,Methods Advisory Panel,,Peer C. Fiss,"University of Southern California, USA"
+P0843,SMJ,Editorial Review Board,,Peggy Lee,"Arizona State University, USA"
+P0844,AMJ,Editorial Review Board,,Peter Hom,Arizona State University United States
+P0845,Organization Science,Senior Editor,,Peter Madsen,Brigham Young University
+P0846,AMJ,Editorial Review Board,,Peter D Sherer,University of Calgary Canada
+P0847,ASQ,Editorial Board,,Peter Younkin,"University of Oregon, USA"
+P0847,SMJ,Editorial Review Board,,Peter Younkin,"University of Oregon, U.S.A."
+P0848,SMJ,Editorial Review Board,,Phanish Puranam,"INSEAD, Singapore"
+P0849,SMJ,Associate Editor,,PK Toh,"Nanyang Technological University, Singapore"
+P0850,SMJ,Editorial Review Board,,Pooyan Khashabi,"ESSEC Business School, France"
+P0851,SMJ,Editorial Review Board,,Pranav Garg,"Stevens Institute of Technology, U.S.A."
+P0852,AMJ,Editorial Review Board,,Prashant Bordia,The Australian National University Australia
+P0853,AMJ,Editorial Review Board,,Prithviraj Chattopadhyay,"University of Cambridge, United Kingdom"
+P0854,AMJ,Editorial Review Board,,Priyanka Dwivedi,Texas A&M University United States
+P0855,AMJ,Editorial Review Board,,Pursey Heugens,Erasmus University Rotterdam Netherlands
+P0856,AMJ,Editorial Review Board,,Qian (Cecilia) Gu,Georgia State University United States
+P0857,AMJ,Editor,,Quinetta M. Roberson,"Michigan State University, United States"
+P0858,SMJ,Editorial Review Board,,Rachelle Sampson,"University of Maryland, U.S.A."
+P0859,AMJ,Editorial Review Board,,Rachel Lise Ruttan,University of Toronto Canada
+P0859,Organization Science,Senior Editor,,Rachel Ruttan,University of Toronto
+P0860,AMJ,Editorial Review Board,,Radina Blagoeva,"University of Georgia, United States"
+P0861,Management Science,Associate Editor,Strategy,Raffaele Conti,ESSEC Business School
+P0861,SMJ,Associate Editor,,Raffaele Conti,"ESSEC Business School, France"
+P0862,SMJ,Associate Editor,,Rahul Kapoor,"University of Pennsylvania, U.S.A."
+P0863,AMJ,Editorial Review Board,,Raina A. Brands,"University College London, United Kingdom"
+P0864,SMJ,Editorial Review Board,,Raja Roy,"New Jersey Institute of Technology, U.S.A."
+P0865,SMJ,Consulting Editor,,Rajshree Agarwal,"University of Maryland, USA"
+P0866,Management Science,Associate Editor,Sustainability,Ralf Martin,International Finance Corporation
+P0867,AMJ,Editorial Review Board,,Ralph A. Heidl,University of Oregon United States
+P0868,ASQ,Editorial Board,,Ramon J. Aldag,"University of Wisconsin, Madison, USA"
+P0869,SMJ,Associate Editor,,Ram Ranganathan,"University of Texas at Austin, U.S.A."
+P0870,AMJ,Editorial Review Board,,Raveendra Chittoor,"University of Victoria, Canada"
+P0871,AMJ,Editorial Review Board,,Rebecca Bednarek,Victoria University of Wellington New Zealand
+P0872,SMJ,Associate Editor,,Reddi Kotha,"Singapore Management University, Singapore"
+P0873,SMJ,Editorial Review Board,,René Belderbos,"KU Leuven, Belgium"
+P0874,AMJ,Editorial Review Board,,Rene Wiedner,Rene Wiedner Person United Kingdom
+P0875,AMJ,Editorial Review Board,,Reut Livne-Tarandach,Manhattan College United States
+P0876,Management Science,Department Editor,Strategy,Ricardo Alonso,London School of Economics
+P0877,Management Science,Associate Editor,Strategy,Ricard Gil,University of Navarra
+P0878,AMJ,Editorial Review Board,,Richard S. Blackburn,University of North Carolina at Chapel Hill United States
+P0879,AMJ,Editorial Review Board,,Richard G. Gardner,Brigham Young University United States
+P0880,AMJ,Editorial Review Board,,Richard Haans,"Erasmus University, The Netherlands"
+P0880,SMJ,Editorial Review Board,,Richard Haans,"Erasmus University Rotterdam, the Netherlands"
+P0881,SMJ,Guest Associate Editor,,Richard Whittington,"University of Oxford, U.K."
+P0882,AMJ,Editorial Review Board,,Riki Takeuchi,The University of Texas at Dallas United States
+P0883,SMJ,Editorial Review Board,,Roberto Ragozzino,"Nova School of Business and Economics, Portugal"
+P0884,AMJ,Editorial Review Board,,Robert Campbell,University of Nebraska-Lincoln United States
+P0885,Management Science,Associate Editor,Strategy,Robert Gibbons,Massachusetts Institute of Technology
+P0886,Management Science,Associate Editor,Sustainability,Robert Metcalfe,Columbia University
+P0887,AMJ,Editorial Review Board,,Robert E Ployhart,"University of South Carolina, United States"
+P0888,Management Science,Associate Editor,Strategy,Robert Seamans,New York University
+P0888,SMJ,Editorial Review Board,,Robert Seamans,"New York University, U.S.A."
+P0889,SMJ,Editorial Review Board,,Rodolphe Durand,"HEC Paris, France"
+P0890,ASQ,Editorial Board,,Rodrigo Canales,"Boston University, USA"
+P0890,Organization Science,Senior Editor,,Rodrigo Canales,Boston University
+P0891,AMJ,Editorial Review Board,,Ronald S. Burt,
+P0892,SMJ,Editorial Review Board,,Ronald Klingebiel,"Frankfurt School of Finance and Management, Germany"
+P0893,Organization Science,Senior Editor,,Rosalind Chow,Carnegie Mellon University
+P0894,SMJ,Editorial Review Board,,Rosemarie Ziedonis,"Imperial College & Boston University, U.K./U.S.A."
+P0895,AMJ,Editorial Review Board,,Roy Yong Joo Chua,Singapore Management University Singapore
+P0896,AMJ,Editorial Review Board,,Ruolian Fang,The University of Western Australia Australia
+P0897,AMJ,Editorial Review Board,,Russell Coff,"University of Wisconsin-Madison, United States"
+P0897,SMJ,Editorial Review Board,,Russell Coff,"Wisconsin School of Business, U.S.A."
+P0898,ASQ,Editorial Board,,Ryan Raffaelli,"Harvard University, USA"
+P0899,AMJ,Editorial Review Board,,Ryan M. Vogel,"Temple University, United States"
+P0900,AMJ,Editorial Review Board,,Sabine Sonnentag,University of Mannheim Germany
+P0901,AMJ,Editorial Review Board,,Sally Maitlis,"University of Oxford, United Kingdom"
+P0902,ASQ,Methods Advisory Panel,,Sameer Srivastava,"University of California-Berkeley, USA"
+P0902,Management Science,Department Editor,Organizations,Sameer Srivastava,"University of California, Berkeley"
+P0903,SMJ,Editorial Review Board,,Sam Arts,"University of Leuven, Belgium"
+P0904,AMJ,Editorial Review Board,,Sam Garg,"ESSEC Business School, Singapore"
+P0905,SMJ,Editorial Review Board,,Sandro Cabral,"Insper, Brazil"
+P0906,SMJ,Editorial Review Board,,Sandy Yu,"University of Minnesota, U.S.A."
+P0907,SMJ,Editorial Review Board,,Santiago Mingo,"Pontificia Universidad Católica de Chile, Chile"
+P0908,AMJ,Editorial Review Board,,Sarah Doyle,"University of Arizona, United States"
+P0909,ASQ,Editorial Board,,Sarah Harvey,"University College London, UK"
+P0910,ASQ,Editorial Board,,Sarah Otner,"University of Sussex Business School, UK"
+P0911,SMJ,Editorial Review Board,,Scott Rockart,"Duke University, U.S.A."
+P0912,AMJ,Editorial Review Board,,Scott Sonenshein,"Rice University, United States"
+P0913,SMJ,Editorial Review Board,,Sea-Jin Chang,"National University of Singapore, Singapore & KAIST, South Korea"
+P0914,Organization Science,Senior Editor,,Sean Buchanan,University of Manitoba
+P0915,AMJ,Editorial Review Board,,Sean Martin,"University of Virginia, United States"
+P0916,AMJ,Editorial Review Board,,Sebastian Raisch,"University of Geneva, Switzerland"
+P0917,SMJ,Co-Editor,,Sendil Ethiraj,"London Business School, U.K."
+P0918,SMJ,Editorial Review Board,,Seojin Kim,"Drexel University, U.S.A"
+P0919,SMJ,Editorial Review Board,,Sergio Lazzarini,"Ivey Business School, Western University, Canada"
+P0920,SMJ,Associate Editor,,Serguey Braguinsky,"University of Maryland, U.S.A."
+P0921,SMJ,Editorial Review Board,,Seung-Hwan Jeong,"University of Georgia, U.S.A."
+P0922,Organization Science,Deputy Editor,,Sharique Hasan,Duke University
+P0922,SMJ,Editorial Review Board,,Sharique Hasan,"Duke University, U.S.A."
+P0923,ASQ,Associate Editor,,Sharon Koppman,"UC Irvine, USA"
+P0924,AMJ,Editorial Review Board,,Shahzad Ansari,University of Cambridge United Kingdom
+P0924,ASQ,Editorial Board,,Shaz Ansari,"University of Cambridge, UK"
+P0924,SMJ,Associate Editor,,Shaz Ansari,"University of Cambridge, U.K."
+P0924,SMJ,Editorial Review Board,,Shaz Ansari,"University of Cambridge, U.K."
+P0925,Organization Science,Promotion and Outreach Editor,,Shirley Tang,Bocconi University
+P0926,SMJ,Editorial Review Board,,Shiva Agarwal,"University of Texas at Austin, U.S.A"
+P0927,SMJ,Editorial Review Board,,Simone Santamaria,"National University of Singapore, Singapore"
+P0928,ASQ,Editorial Board,,Siobhan O’Mahony,"Boston University, USA"
+P0929,AMJ,Associate Editor,,Songqi Liu,"Georgia State University, United States"
+P0930,AMJ,Editorial Review Board,,Sophie Bacq,IMD – International Institute for Management Development Switzerland
+P0931,AMJ,Editorial Review Board,,Srikanth Paruchuri,Texas A&M University United States
+P0931,SMJ,Editorial Review Board,,Srikanth Paruchuri,"Texas A&M University, U.S.A."
+P0932,AMJ,Editorial Review Board,,Srividya Jandhyala,ESSEC Business School Singapore
+P0932,SMJ,Editorial Review Board,,Srividya Jandhyala,"ESSEC Business School, Singapore"
+P0933,SMJ,Editorial Review Board,,Sruthi Thatchenkery,"Vanderbilt University, U.S.A."
+P0934,AMJ,Editorial Review Board,,Stacie Furst-Holloway,University of Cincinnati United States
+P0935,SMJ,Editorial Review Board,,Stan Xiao Li,"City University of Hong Kong, Hong Kong"
+P0936,Organization Science,Deputy Editor,,Stefano Brusoni,ETH Zurich
+P0937,AMJ,Editorial Review Board,,Stefan Thau,"INSEAD, Singapore"
+P0938,SMJ,Editorial Review Board,,Stefan Wagner,"University of Vienna, Austria"
+P0939,ASQ,Associate Editor,,Stéphane Côté,"University of Toronto, Canada"
+P0940,AMJ,Editorial Review Board,,Steven Boivie,Texas A&M University United States
+P0940,SMJ,Editorial Review Board,,Steven Boivie,"Texas A&M University, U.S.A."
+P0941,AMJ,Editorial Review Board,,Stephen Hyrum Courtright,University of Iowa United States
+P0942,AMJ,Editorial Review Board,,Stephen Humphrey,The Pennsylvania State University United States
+P0942,ASQ,Editorial Board,,Stephen E. Humphrey,"Pennsylvania State University, USA"
+P0943,AMJ,Editorial Review Board,,Subrahmaniam Tangirala,University of Maryland College Park United States
+P0944,SMJ,Editorial Review Board,,Subrina Shen,"Hong Kong University of Science and Technology, Hong Kong"
+P0945,SMJ,Editorial Review Board,,Sungyong Chang,"London Business School, U.K."
+P0946,AMJ,Editorial Review Board,,Suntae Kim,"Johns Hopkins University, USA"
+P0946,ASQ,Editorial Board,,Suntae Kim,"Johns Hopkins University, USA"
+P0947,AMJ,Editorial Review Board,,Szu-Han (Joanna) Lin,University of Georgia United States
+P0948,AMJ,Editorial Review Board,,Tae-Youn Park,"Sungkyunkwan University Korea, Republic of"
+P0949,AMJ,Editorial Review Board,,Tammar B. Zilber,The Hebrew University of Jerusalem Israel
+P0950,SMJ,Editorial Review Board,,Teresa Antonia Dickler,"Philipps-Universität Marburg, Germany"
+P0951,AMJ,Editorial Review Board,,Terry Blum,
+P0952,Management Science,Associate Editor,Sustainability,Thomas Bourveau,University of Oxford
+P0953,ASQ,Editorial Board,,Thomas D'Aunno,"New York University, USA"
+P0954,AMJ,Editorial Review Board,,Thomas D’Aunno,New York University United States
+P0955,AMJ,Editorial Review Board,,Thomas Fewer,"Rutgers University, United States"
+P0956,SMJ,Editorial Review Board,,Thomaz Teodorovicz,"Copenhagen Business School, Denmark"
+P0957,SMJ,Editorial Review Board,,Thorsten Grohsjean,"University of Vienna, Austria"
+P0958,AMJ,Editorial Review Board,,Tieying Yu,Boston College United States
+P0959,SMJ,Editorial Review Board,,Timothy B Folta,"University of Connecticut, U.S.A."
+P0960,SMJ,Editorial Review Board,,Timothy Gubler,"Brigham Young University, U.S.A."
+P0961,AMJ,Editorial Review Board,,Tim G. Pollock,The University of Tennessee-Knoxville United States
+P0961,ASQ,Editorial Board,,Tim Pollock,"University of Tennessee, USA"
+P0962,SMJ,Editorial Review Board,,Timothy Werner,"University of Texas at Austin, U.S.A."
+P0963,AMJ,Editorial Review Board,,Tina Dacin,Queen’s University Canada
+P0964,AMJ,Associate Editor,,Tine Köhler,"The University of Melbourne, Australia"
+P0965,SMJ,Editorial Review Board,,Tobias Kretschmer,"LMU Munich, Germany"
+P0966,ASQ,Methods Advisory Panel,,Todd Rogers,"Harvard University, USA"
+P0967,SMJ,Editorial Review Board,,Todd Zenger,"University of Utah, U.S.A."
+P0968,Organization Science,Deputy Editor,,Tomasz Obloj,Indiana University
+P0969,AMJ,Editorial Review Board,,Tomi MM Laamanen,"University of St.Gallen, Switzerland"
+P0969,SMJ,Editorial Review Board,,Tomi Laamanen,"University of St.Gallen, Switzerland"
+P0970,SMJ,Editorial Review Board,,Tony He,"Rutgers University, U.S.A."
+P0971,AMJ,Editorial Review Board,,Traci Sitzmann,University of Colorado-Denver/Anschutz Medical Campus United States
+P0972,AMJ,Editorial Review Board,,Travis Grosser,The University of Connecticut United States
+P0973,AMJ,Associate Editor,,Trevis Certo,"Arizona State University, United States"
+P0973,SMJ,Editorial Review Board,,Trevis Certo,"Arizona State University, U.S.A."
+P0974,AMJ,Editorial Review Board,,Trevor Foulk,University of Maryland College Park United States
+P0975,AMJ,Editorial Review Board,,Trevor Watkins,University of Oklahoma United States
+P0976,Organization Science,Senior Editor,,Trevor Young-Hyman,University of Pittsburgh
+P0977,AMJ,Editorial Review Board,,Troy A. Smith,University of Oklahoma United States
+P0978,SMJ,Editorial Review Board,,Tuhin Chaturvedi,"Cleveland State University, U.S.A."
+P0979,SMJ,Editorial Review Board,,Ulya Tsolmon,"University of Massachusetts - Amherst, U.S.A."
+P0980,SMJ,Editorial Review Board,,Uriel Stettner,"Tel Aviv University, Israel"
+P0981,AMJ,Editorial Review Board,,Ute Stephan,King’s College London United Kingdom
+P0982,Organization Science,Senior Editor,,Vanessa Burbano,Columbia University
+P0982,SMJ,Editorial Review Board,,Vanessa Burbano,"Columbia University, U.S.A."
+P0983,SMJ,Co-Editor,,Vibha Gaba,"INSEAD, Singapore"
+P0984,SMJ,Associate Editor,,Vikas Aggarwal,"INSEAD, France"
+P0985,SMJ,Editorial Review Board,,Vivek Tandon,"Temple University, U.S.A."
+P0986,AMJ,Editorial Review Board,,Vontrese Pamphile,"George Washington University, United States"
+P0987,SMJ,Editorial Review Board,,Weiting Zheng,"University of New South Wales, Australia"
+P0988,AMJ,Editorial Review Board,,Wei He,"Nanjing University, China"
+P0989,SMJ,Editorial Review Board,,Wei Shen,"Arizona State University, U.S.A."
+P0990,SMJ,Editorial Review Board,,Wei Yang,"University of Glasgow, U.K."
+P0991,AMJ,Editorial Review Board,,Wendy K. Smith,University of Delaware United States
+P0992,AMJ,Editorial Review Board,,Wenpin Tsai,The Pennsylvania State University United States
+P0992,SMJ,Editorial Review Board,,Wenpin Tsai,"Pennsylvania State University, U.S.A."
+P0993,AMJ,Editorial Review Board,,Wesley Helms,"Brock University, Canada"
+P0994,SMJ,Editorial Review Board,,Wilbur Chung,"University of Maryland, U.S.A."
+P0995,AMJ,Editorial Review Board,,William P. Wan,"The Chinese University of Hong Kong, China"
+P0996,AMJ,Editorial Review Board,,Winny Shen,
+P0997,AMJ,Editorial Review Board,,Wouter Stam,Vrije Universiteit Amsterdam Netherlands
+P0998,AMJ,Associate Editor,,Wu Liu,"The Hong Kong Polytechnic University, China"
+P0999,SMJ,Editorial Review Board,,Xiaoshu (Sarah) Bei,"University of Colorado Boulder, U.S.A."
+P1000,SMJ,Editorial Review Board,,Xiaoteng Wu,"Peking University, China"
+P1001,Management Science,Associate Editor,Sustainability,Xiaoyun Yu,Shanghai Advanced Institute of Finance
+P1002,SMJ,Editorial Review Board,,Xia Li,"London Business School, U.K."
+P1003,Management Science,Associate Editor,Sustainability,Xintong Zhan,Fudan University
+P1004,SMJ,Editorial Review Board,,Xirong Shen,"University of Texas at Austin, U.S.A."
+P1005,SMJ,Editorial Review Board,,Xuege Lu,"University of Minnesota, USA"
+P1006,AMJ,Editorial Review Board,,Xueming Luo,Temple University
+P1007,AMJ,Editorial Review Board,,Xu Huang,"Hong Kong Baptist University, China"
+P1008,Organization Science,Senior Editor,,Yanbo Wang,Hong Kong University
+P1008,SMJ,Editorial Review Board,,Yanbo Wang,"National University of Singapore, Singapore"
+P1009,AMJ,Editorial Review Board,,Yanfeng Zheng,The Hong Kong University of Science and Technology China
+P1010,AMJ,Editorial Review Board,,Yaping Gong,The Hong Kong University of Science and Technology Hong Kong
+P1011,SMJ,Editorial Review Board,,Yasemin Kor,"University of Cambridge, U.K."
+P1012,AMJ,Editorial Review Board,,Yeun Joon Kim,University of Cambridge United Kingdom
+P1013,AMJ,Editorial Review Board,,Yifan Song,"Texas A&M University, United States"
+P1014,SMJ,Editorial Review Board,,Yifan Wei,"University of Manitoba, Canada"
+P1015,AMJ,Editorial Review Board,,Yihao Liu,"University of Georgia, United States"
+P1016,Management Science,Associate Editor,Sustainability,Yongxiang Wang,Shanghai Advanced Institute of Finance
+P1017,ASQ,Editorial Board,,Yong H. Kim,"Texas A&M University, USA"
+P1018,SMJ,Editorial Review Board,,Yujin Jeong,"American University, U.S.A."
+P1019,AMJ,Editorial Review Board,,Yuri Mishina,Imperial College London United Kingdom
+P1019,SMJ,Editorial Review Board,,Yuri Mishina,"Imperial College Business School, UK"
+P1020,Management Science,Associate Editor,Sustainability,Zacharias Sautner,University of Zurich
+P1021,AMJ,Editorial Review Board,,Zeki Simsek,"Clemson University, United States"
+P1022,AMJ,Editorial Review Board,,Zhenyu Liao,Northeastern University United States
+P1023,AMJ,Editorial Review Board,,Zhen Zhang,Southern Methodist University United States
+P1024,SMJ,Editorial Review Board,,Zi-Lin He,"Tilburg University, the Netherlands"
